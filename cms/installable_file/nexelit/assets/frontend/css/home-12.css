@@ -1,0 +1,683 @@
+/* navbar area */
+
+
+/* navbar */
+
+.header-style-03.header-variant-12 {
+    position: relative;
+    z-index: inherit;
+}
+
+.header-style-03.header-variant-12 .navbar-area {
+    position: absolute;
+    left: 0;
+    top: auto;
+    z-index: 2;
+    width: 100%;
+}
+.header-variant-12 .navbar-area.nav-fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+    z-index: 999;
+}
+.header-style-03.header-variant-12 .logo img {
+    max-width: 180px;
+}
+
+.header-style-03.header-variant-12 .navbar-area .nav-container .nav-right-content ul li.cart .pcount {
+    color: #fff;
+    background-color: var(--medical-color);
+}
+
+.header-style-03.header-variant-12 .navbar-area .nav-container .mobile-cart a .pcount {
+    color: var(--medical-color);
+}
+
+.header-style-03.header-variant-12 .navbar-area .nav-container {
+    -webkit-box-shadow: 0 6px 15px 0 rgb(0 0 0 / 10%);
+    box-shadow: 0 10px 15px 0 rgb(0 0 0 / 10%);
+    padding: 0 30px;
+    border-radius: 0;
+    margin-top: 10px;
+    background-color: #fff;
+}
+
+
+/* header area */
+
+.header-area.medical-home {
+    background-color: var(--medical-color);
+}
+
+.header-area.medical-home .title {
+    font-weight: 700;
+}
+
+.header-area.medical-home .right-image-wrap {
+    position: absolute;
+    right: 5%;
+    top: 15%;
+}
+
+.header-area.medical-home .btn-wrapper .boxed-btn.medical {
+    background-color: var(--medical-two-color);
+}
+
+.header-area.medical-home .btn-wrapper .boxed-btn.medical:hover {
+    background-color: transparent;
+}
+
+.header-area.medical-home .btn-wrapper .boxed-btn.medical.blank {
+    background-color: transparent;
+}
+
+.header-area.medical-home .btn-wrapper .boxed-btn.medical.blank:hover {
+    background-color: var(--medical-two-color);
+    border-color: var(--medical-two-color);
+    color: #fff;
+}
+
+.header-area.medical-home .bottom-image-shape {
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+}
+
+.header-area.medical-home {
+    padding: 285px 0 450px;
+}
+
+.header-area.medical-home .shape {
+    position: absolute;
+    z-index: -1;
+}
+
+.header-area.medical-home .shape.image-1 {
+    left: -100px;
+    top: 15%;
+}
+
+.header-area.medical-home .shape.image-2 {
+    right: 5%;
+    top: 24%;
+}
+
+.header-area.medical-home .shape.image-3 {
+    bottom: 10%;
+    left: 30%;
+}
+
+
+/* about section */
+
+.medical-about-area .subtitle {
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--medical-color);
+    margin-bottom: 20px;
+    display: block;
+    font-weight: 700;
+}
+
+.medical-about-area .title {
+    font-size: 45px;
+    line-height: 55px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.boxed-btn.medical-home {
+    background-color: var(--medical-two-color);
+    font-weight: 700;
+}
+
+.boxed-btn.medical-home:hover {
+    background-color: var(--medical-color);
+}
+
+
+/* about area */
+
+.medical-about-area .right-content-arae {
+    text-align: right;
+}
+
+.medical-about-area .right-content-area {
+    text-align: right;
+    position: relative;
+}
+
+.medical-about-area .right-content-area img {
+    border-radius: 25px;
+}
+
+.medical-about-area .right-content-area .image-wapper img {
+    border: 10px solid #fff;
+}
+
+.medical-about-area .right-content-area .image-wrapper {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.medical-about-area .right-content-area .image-wapper {
+    position: absolute;
+    left: 0;
+    bottom: -30px;
+}
+
+.medical-about-area .right-content-area .image-wapper .vdo-btn {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+
+.medical-about-area .right-content-area .image-wapper .vdo-btn .video-play-btn {
+    color: #fff;
+    background-color: var(--medical-two-color);
+}
+
+.medical-about-area .right-content-area .image-wapper .vdo-btn .video-play-btn:before {
+    background-color: var(--medical-two-color);
+}
+
+.medical-about-area .left-content-area {
+    padding-right: 80px;
+}
+
+
+/* services */
+
+.section-title.medical-home .subtitle {
+    text-transform: capitalize;
+    font-weight: 700;
+    color: var(--medical-color);
+}
+
+.political-single-what-we-cover-item .content {
+    padding: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.political-single-what-we-cover-item .content .title {
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+.political-single-what-we-cover-item .thumb {
+    position: relative;
+}
+
+.political-single-what-we-cover-item .thumb .icon {
+    position: absolute;
+    left: 50%;
+    bottom: -25px;
+    width: 60px;
+    height: 60px;
+    background-color: var(--medical-two-color);
+    text-align: center;
+    line-height: 60px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 30px;
+    transform: translateX(-50%);
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
+}
+
+.political-single-what-we-cover-item .thumb .icon.style-1 {
+    background-color: #62b5fc;
+}
+
+.political-single-what-we-cover-item .thumb .icon.style-2 {
+    background-color: #8876FF;
+}
+
+.political-single-what-we-cover-item .thumb .icon.style-3 {
+    background-color: #55B56A;
+}
+
+.political-single-what-we-cover-item .thumb .icon.style-4 {
+    background-color: #04D2C8;
+}
+
+.political-single-what-we-cover-item .thumb .icon.style-5 {
+    background-color: #4582FF;
+}
+
+.political-single-what-we-cover-item .thumb .icon.style-6 {
+    background-color: #FFBB00;
+}
+
+
+/* appointment area */
+
+.appointment-inner-area {
+    background-color: var(--medical-color);
+    padding: 60px 80px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 40px;
+}
+
+.appointment-inner-area .left-content-area {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 40px;
+}
+
+.appointment-inner-area .right-content-area {
+    width: 50%;
+    padding-left: 60px;
+}
+
+.appointment-inner-area .left-content-area .title {
+    font-size: 46px;
+    line-height: 50px;
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.appointment-inner-area .left-content-area .subtitle {
+    font-size: 16px;
+    line-height: 26px;
+    color: #fff;
+}
+
+.appointment-inner-area .left-content-area .description {
+    color: rgba(255, 255, 255, .8);
+}
+
+.appointment-inner-area .left-content-area .helpline {
+    font-size: 25px;
+    line-height: 40px;
+    color: #fff;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.appointment-inner-area .right-content-area .contact-page-form .form-control {
+    background-color: #fff;
+    border: none;
+    font-size: 14px;
+    padding: 10px;
+}
+
+.appointment-inner-area .right-content-area .contact-page-form .textarea .form-control {
+    max-height: 100px;
+}
+
+.appointment-inner-area .right-content-area .contact-page-form label {
+    color: #fff;
+    font-weight: 700;
+}
+
+.appointment-inner-area .right-content-area .contact-page-form .file .help-info {
+    color: #fff;
+    opacity: .6;
+}
+
+.appointment-inner-area .right-content-area .contact-page-form .file .form-control {
+    background-color: transparent;
+}
+
+.appointment-inner-area .boxed-btn.medical-home {
+    border-radius: 3px;
+}
+
+.appointment-inner-area .boxed-btn.medical-home:hover {
+    background-color: #fff;
+    color: var(--heading-color);
+}
+
+
+/* counterup area */
+
+.medical-section-bg-color {
+    background-color: #F4F5FA;
+}
+
+.medical-home-counterup-item {
+    display: flex;
+}
+
+.medical-home-counterup-item .icon {
+    margin-right: 30px;
+    font-size: 40px;
+    line-height: 50px;
+    color: var(--medical-color);
+    position: relative;
+}
+
+.medical-home-counterup-item .content .count-wrap {
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 700;
+    color: var(--heading-color);
+}
+
+.medical-home-counterup-item .content .title {
+    font-size: 16px;
+    line-height: 20px;
+    opacity: .6;
+}
+
+.medical-home-counterup-item .style-1.icon {
+    color: #FC6285;
+}
+
+.medical-home-counterup-item .style-1.icon:before {
+    background-color: #FC6285;
+}
+
+.medical-home-counterup-item .style-2.icon {
+    color: #8876FF;
+}
+
+.medical-home-counterup-item .style-2.icon:before {
+    background-color: #8876FF;
+}
+
+.medical-home-counterup-item .style-3.icon {
+    color: #55B56A;
+}
+
+.medical-home-counterup-item .style-3.icon:before {
+    background-color: #55B56A;
+}
+
+.medical-home-counterup-item .icon:before {
+    position: absolute;
+    left: 10px;
+    top: 15px;
+    width: 40px;
+    height: 40px;
+    background-color: var(--medical-color);
+    border-radius: 50%;
+    opacity: .2;
+    content: '';
+    transition: all 300ms;
+}
+
+.medical-counterup-area.medical-section-bg-color {
+    padding-top: 250px;
+    margin-top: -160px;
+}
+
+.medical-home-counterup-item:hover .icon:before {
+    width: 60px;
+    height: 60px;
+    top: 0;
+    left: 0;
+}
+
+
+/* team member area */
+
+.appointment-inner-area .right-content-area .error-message span {
+    color: #fff !important;
+}
+
+.medical-team-single-item .content .title {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+    margin-bottom: 0;
+    text-transform: capitalize;
+}
+
+.medical-team-single-item .content {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.medical-team-single-item .content span {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.medical-team-single-item .content .social-icons {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-top: 10px;
+}
+
+.medical-team-single-item .content .social-icons li {
+    display: inline-block;
+}
+
+.medical-team-single-item .content .social-icons li+li {
+    margin-left: 10px;
+}
+
+.medical-team-single-item .content .social-icons li a {
+    transition: all 300ms;
+}
+
+.medical-team-single-item .content .social-icons li a:hover {
+    color: var(--medical-color);
+}
+
+.const-single-case-study-style-02 .cart-icon {
+    background-image: url("../img/shape/case-study-shape.svg");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+.const-single-case-study-style-02 .title:hover {
+    color: var(--medical-two-color);
+}
+
+.const-single-case-study-style-02 .title {
+    font-size: 26px;
+    line-height: 30px;
+}
+
+
+/* testimonial area */
+
+.logistic-single-testimonial-item.medical-home .content i {
+    color: var(--medical-color);
+}
+
+.logistic-single-testimonial-item.medical-home {
+    background-color: #F4F5FA;
+}
+
+.logistic-single-testimonial-item.medical-home .content .author-details {
+    border-left-color: var(--medical-color);
+}
+
+
+/* news area */
+
+.single-portfolio-blog-grid.medical-home .content {
+    background-color: transparent;
+    padding: 20px 0 0 0;
+}
+
+.single-portfolio-blog-grid.medical-home .thumb img {
+    border-radius: 15px;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
+}
+
+.single-portfolio-blog-grid.medical-home .thumb .time-wrap {
+    bottom: 20px;
+    background-color: var(--medical-color);
+}
+
+.single-portfolio-blog-grid.medical-home .content .title:hover {
+    color: var(--medical-two-color);
+}
+
+.single-portfolio-blog-grid.medical-home .content .title {
+    color: var(--heading-color);
+}
+
+.single-portfolio-blog-grid.medical-home .content .readmore {
+    color: var(--paragraph-color);
+    text-decoration: none;
+    transition: all 300ms;
+}
+
+.single-portfolio-blog-grid.medical-home .content .readmore:hover,
+.appointment-single-item.medical-home .content .location i {
+    color: var(--medical-color);
+}
+
+.appointment-single-item.medical-home .thumb .cat {
+    background-color: var(--medical-color);
+}
+
+.appointment-single-item.medical-home .content .designation:before {
+    background-color: var(--medical-two-color);
+}
+
+.appointment-single-item.medical-home .content .designation {
+    color: var(--medical-two-color);
+}
+
+.appointment-single-item.medical-home .content .boxed-btn:hover {
+    opacity: .8;
+}
+
+.appointment-single-item.medical-home .content .boxed-btn {
+    min-width: auto;
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    background-color: var(--medical-color);
+    padding: 5px 20px;
+}
+
+.appointment-single-item.medical-home .thumb .cat:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--medical-color);
+    opacity: .2;
+    content: '';
+}
+
+.appointment-single-item.medical-home .thumb .cat {
+    color: #333;
+    background-color: transparent;
+}
+
+
+/* responsive */
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+    .header-area.medical-home .right-image-wrap {
+        right: -5%;
+        top: 2%;
+    }
+    .header-area.medical-home {
+        padding: 285px 0 350px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .header-area.medical-home .right-image-wrap {
+        right: -15%;
+        top: 15%;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .header-style-03.header-variant-12 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before {
+        top: 25px;
+        right: 20px;
+    }
+    .header-style-03.header-variant-12 .mobile-cart a {
+        color: var(--heading-color);
+    }
+    .header-style-03.header-variant-12 .mobile-cart a .pcount {
+        color: #fff !important;
+    }
+    .header-area.medical-home .right-image-wrap {
+        display: none;
+    }
+    .medical-about-area .left-content-area {
+        padding-right: 0;
+        margin-bottom: 40px;
+    }
+    .appointment-inner-area {
+        padding: 40px;
+        display: block;
+    }
+    .appointment-inner-area div {
+        width: 100% !important;
+    }
+    .appointment-inner-area .right-content-area {
+        padding-left: 0;
+        margin-top: 40px;
+    }
+    .medical-home-counterup-item {
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .header-area.medical-home {
+        padding: 185px 0 250px;
+    }
+    .appointment-inner-area .left-content-area .title {
+        font-size: 42px;
+    }
+}
+
+@media only screen and (max-width: 599px) {}
+
+@media only screen and (max-width: 450px) {}
+
+@media only screen and (max-width: 414px) {
+    .header-area.medical-home {
+        padding: 185px 0 150px;
+    }
+}
+
+@media only screen and (max-width: 330px) {
+    .header-style-03.header-variant-12 .logo img {
+        max-width: 130px;
+    }
+    .medical-about-area .title {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .appointment-inner-area {
+        padding: 20px 40px;
+    }
+    .appointment-inner-area .left-content-area {
+        padding-right: 0;
+    }
+    .appointment-inner-area .left-content-area .title {
+        font-size: 36px;
+    }
+    .appointment-inner-area .left-content-area .helpline {
+        font-size: 18px;
+        margin-top: 10px;
+    }
+    .header-style-03.header-variant-12 .navbar-area .nav-container {
+        padding: 0 10px;
+    }
+    .header-style-03.header-variant-12 .mobile-cart a {
+        display: inline-block;
+        position: absolute;
+        right: 79px;
+        top: 15px;
+    }
+}

@@ -1,0 +1,363 @@
+
+.btn-dagency {
+    display: inline-block;
+    background-color: var(--grocery-color);
+    border-radius: 30px;
+    transition: all 300ms;
+    padding: 10px 12px 10px 30px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.btn-dagency:hover {
+    color: #fff;
+    background-color: var(--secondary-color);
+}
+
+.btn-dagency i {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 35px;
+    background-color: #fff;
+    color: var(--grocery-color);
+    margin-left: 20px;
+    padding: 0;
+    border-radius: 50%;
+}
+/* header area */
+.header-variant-18 .navbar-area .nav-container {
+    box-shadow: none;
+}
+.header-variant-18 .navbar-area.nav-fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #f0f0f0;
+    z-index: 999;
+}
+.header-variant-18 .navbar-area .nav-container .logo-wrapper {
+    max-width: 180px;
+}
+.header-style-03.header-variant-18 {
+    z-index: 9;
+}
+.header-area.grocery-home .subtitle {
+    font-weight: 600;
+    color: var(--paragraph-color);
+    display: block;
+    margin-bottom: 20px;
+}
+.header-area.grocery-home .title {
+    font-weight: 700;
+    text-transform: capitalize;
+    color: var(--heading-color);
+    font-size: 54px;
+    line-height: 65px;
+}
+.header-area.grocery-home .description{
+    color: var(--paragraph-color);
+}
+.grocery-home.section-title .title{
+    color: var(--grocery-heading-color);
+}
+.header-style-03.header-variant-18 .mobile-cart a .pcount,
+.header-style-03.header-variant-18 .navbar-area .nav-container .nav-right-content ul li.cart .pcount{
+    color: #fff;
+}
+.header-style-03.header-variant-18 .navbar-area.nav-fixed {
+    background-color: #fff;
+    box-shadow: 0 0 5px 0 rgba(0,0,0,0.1);
+}
+/* product categories */
+.single-product-cat-item .thumb {
+    background-color: #f2f2f2;
+    border-radius: 20px;
+}
+
+.single-product-cat-item {
+    text-align: center;
+}
+
+.single-product-cat-item .title {
+    font-size: 22px;
+    font-weight: 700;
+    margin: 20px 0;
+    transition: all 300ms;
+}
+
+.single-product-cat-item .title:hover {
+    color: var(--grocery-color);
+}
+
+.logistic-dots.grocery-home .owl-dots div.active{
+    background-color: var(--grocery-color);
+}
+.offer-item-wrap img {
+    border-radius: 20px;
+}
+
+/* popular items */
+.single-grocery-product-item .thumb {
+    position: relative;
+}
+
+.single-grocery-product-item .thumb .tag {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    background-color: var(--grocery-color);
+    font-weight: 600;
+    color: #fff;
+    padding: 2px 5px;
+    font-size: 14px;
+}
+
+.single-grocery-product-item .content {
+    padding: 30px 20px;
+    text-align: center;
+    position: relative;
+}
+
+.single-grocery-product-item .content .rating-wrap {
+    position: absolute;
+    top: 6px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.single-grocery-product-item .content .title {
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.single-grocery-product-item .price-wrap {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.single-grocery-product-item .price-wrap .price {
+    color: var(--grocery-color);
+}
+
+.single-grocery-product-item .addtocart {
+    display: inline-block;
+    border-radius: 30px;
+    border: 1px solid var(--grocery-color);
+    padding: 8px 25px;
+    color: var(--grocery-color);
+    font-weight: 600;
+    transition: all 300ms;
+}
+
+.single-grocery-product-item .addtocart:hover {
+    background-color: var(--grocery-color);
+    color: #fff;
+}
+.section-title.grocery-home .title {
+    color: var(--grocery-heading-color);
+}
+
+.section-title.grocery-home .subtitle {
+    position: relative;
+    color: var(--heading-color);
+    text-transform: capitalize;
+    font-weight: 600;
+    padding: 5px 15px;
+}
+
+.section-title.grocery-home .subtitle:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: var(--grocery-color);
+    content: '';
+    height: 100%;
+    z-index: -1;
+    opacity: .3;
+    border-radius: 3px;
+}
+
+
+/* process area */
+.process-area-wrap .shape{
+    position: absolute;
+}
+.process-area-wrap{
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+.single-process-item-fruit-home {
+    text-align: center;
+}
+
+.single-process-item-fruit-home .icon {
+    font-size: 70px;
+    line-height: 230px;
+    color: var(--grocery-color);
+    background-image: url(../img/shape/process-circle.svg);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 0 auto 30px;
+}
+
+.single-process-item-fruit-home .icon .number {
+    font-size: 16px;
+    display: inline-block;
+    background-color: var(--grocery-color);
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    font-weight: 700;
+    color: #fff;
+    position: absolute;
+    bottom: 20px;
+    right: 12px;
+}
+.single-process-item-fruit-home .title {
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+
+.process-area-wrap .shape.right-image {
+    right: 0;
+    top: -60px;
+}
+
+.process-area-wrap .shape.left-image {
+    bottom: -80px;
+    left: 0
+}
+
+
+.fruits-home-single-testimonial-item {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 0 rgba(0,0,0,0.1);
+    padding: 60px;
+}
+
+.fruits-home-single-testimonial-item .author-details {
+    display: flex;
+    color: var(--fruits-color);
+}
+
+.fruits-home-single-testimonial-item .author-details .content {
+    flex: 1;
+}
+
+.fruits-home-single-testimonial-item .author-details .thumb img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.fruits-home-single-testimonial-item .author-details .content .title {
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 700;
+    color: var(--fruits-heading-color);
+    margin-bottom: 4px;
+}
+
+.fruits-home-single-testimonial-item .author-details .content .designation {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.fruits-home-single-testimonial-item .author-details .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fruits-home-single-testimonial-item .author-details {
+    margin-bottom: 20px;
+}
+
+.fruits-home-single-testimonial-item {
+    margin: 10px;
+}
+.fruits-home-single-testimonial-item .icon {
+    font-size: 60px;
+    line-height: 60px;
+    position: absolute;
+    right: 60px;
+    bottom: 30px;
+    color: var(--fruits-color);
+    opacity: .2;
+}
+
+.fruits-home-single-testimonial-item .description {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+
+/* responsive */
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px) {}
+@media only screen and (max-width: 991px) {
+    .header-style-03.header-variant-18 .navbar-area.nav-fixed .nav-container .navbar-collapse .navbar-nav li {
+        line-height: 26px;
+    }
+    .header-style-03.header-variant-18 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before {
+        top: 25px;
+        right: 20px;
+    }
+    .offer-item-wrap {
+        margin-bottom: 30px;
+    }
+    .process-area-wrap {
+        background-size: cover;
+    }
+    .header-style-03.header-variant-18 .mobile-cart a{
+        color: var(--heading-color);
+    }
+}
+@media only screen and (max-width: 767px) {
+    .single-grocery-product-item .thumb img {
+        width: 100%;
+    }
+    .header-style-03.header-variant-18 .mobile-cart a{
+        color: var(--heading-color);
+    }
+}
+@media only screen and (max-width: 599px)  {}
+@media only screen and (max-width: 450px)   {}
+@media only screen and (max-width: 414px)   {
+    .header-area.grocery-home .title {
+        font-size: 45px;
+        line-height: 50px;
+    }
+}
+@media only screen and (max-width: 330px)   {
+    .header-variant-18 .navbar-area .nav-container {
+        margin: 0;
+    }
+    .header-variant-18 .navbar-area .nav-container .logo-wrapper {
+        max-width: 130px;
+    }
+    .header-variant-18 .mobile-cart a {
+        right: 70px;
+        top: 14px;
+    }
+    .header-area.grocery-home .title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+}

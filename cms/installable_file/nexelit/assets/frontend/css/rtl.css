@@ -1,0 +1,1926 @@
+.promotional-modal-content-wrapper .left-content-warp {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.nx-modal-content {
+    text-align: right;
+}
+
+.nx-modal-inner-content-wrapper .nx-popup-close {
+    right: auto;
+    left: 10px;
+}
+
+.preloader-inner .cancel-preloader {
+    right: auto;
+    left: 30px;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li+li {
+    margin-right: 20px;
+    margin-left: 0;
+}
+
+.experience-right .vdo-btn {
+    left: 30%;
+}
+
+.experience-content .offset-lg-3 {
+    margin-left: 0 !important;
+}
+
+.quality-content-wrapper {
+    margin-left: 0;
+    margin-right: 100px;
+}
+
+.quality-content-wrapper {
+    margin-left: 0;
+    margin-right: 100px;
+}
+
+.singler-counterup-item-01 .icon {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.single-blog-grid-01 .content,
+.map-wrapper .contact-wrapper,
+.case-studies-slider-active .owl-item.center .slider-inner-text,
+.singler-counterup-item-01,
+.desktop-left,
+.header-area .header-inner {
+    text-align: right;
+}
+
+.single-blog-grid-01 .content .post-meta li+li {
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+.widget .recent_post_item li.single-recent-post-item .thumb {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.widget.footer-widget {
+    text-align: right;
+}
+
+.newsletter-form-wrap .submit-btn {
+    right: auto;
+    left: 0;
+}
+
+.newsletter-form-wrap .form-group .form-control {
+    padding-left: 40px;
+}
+
+.contact_info_list li.single-info-item .icon {
+    left: auto;
+    right: 0;
+}
+
+.contact_info_list li.single-info-item .details {
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu {
+    text-align: right;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li {
+    margin-right: 0;
+}
+
+.xg-mega-menu-single-column-wrap {
+    text-align: right;
+}
+
+.xg-mega-menu-single-column-wrap ul .single-mega-menu-product-item .thumbnail {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.xg-mega-menu-single-column-wrap ul .single-mega-menu-product-item {
+    margin-right: 0;
+}
+
+.xg-mega-menu-single-column-wrap ul li {
+    margin-right: 0 !important;
+}
+
+.single-donation-mega-menu-item .thumbnail {
+    margin-right: 0px;
+    margin-left: 20px;
+    max-width: 80px;
+}
+
+.single-donation-mega-menu-item .title {
+    text-align: right;
+}
+
+.back-to-top {
+    right: auto;
+    left: 30px;
+}
+
+.order-service-page-content-area {
+    text-align: right;
+}
+
+.payment-gateway-wrapper ul li {
+    min-width: 100px;
+}
+
+.order-confirm-area table {
+    text-align: right;
+}
+
+.single-testimonial-item-02 .content .content-wrapper {
+    text-align: right;
+}
+
+.single-testimonial-item-02 .icon {
+    right: auto;
+    left: 50px;
+}
+
+.single-testimonial-item-02 .content .author-details {}
+
+.single-testimonial-item-02 .content .author-details .author-meta {
+    flex: unset;
+    text-align: right;
+    margin-right: 20px;
+}
+
+.breadcrumb-area .page-list li:after {
+    left: auto;
+    right: 10px;
+}
+
+.breadcrumb-area .page-list li {
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.teastimonial-item-09 .clients-details,
+.teastimonial-item-09 .bottom-content p,
+.teastimonial-item-09 .bottom-content .ratings,
+.experience-content-03 {
+    text-align: right;
+}
+
+.top-experience-area .offset-lg-1 {
+    margin-right: 8.333333%;
+    margin-left: 0 !important;
+}
+
+.experience-content-03 .icon-area p {
+    margin-left: 0;
+    margin-right: 15px;
+}
+
+.global-network-area {
+    text-align: right;
+}
+
+.experience-content-02 {
+    text-align: right;
+    padding-left: 0;
+    padding-right: 100px;
+}
+
+.experience-content-02 .sign-area::after {
+    left: auto;
+    right: -40px;
+}
+
+.quality-content-wrapper,
+.portfolio-details-item,
+.attorney-contact-form-wrap .attorney-contact-form .form-group .form-control,
+.related-work-area .title,
+.single-related-case-study-item .content .title,
+.service-widget {
+    text-align: right;
+}
+
+.service-widget:before {
+    left: auto;
+    right: 0;
+}
+
+.service-widget .service-icon {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.case-studies-menu li+li {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.accordion-wrapper .card .card-header a,
+.accordion-wrapper .card .card-body,
+.widget.widget_nav_menu,
+.single-job-list-item,
+.single-job-details,
+.widget.job_information {
+    text-align: right;
+}
+
+.accordion-wrapper .card .card-header a:after {
+    right: auto;
+    left: 30px;
+}
+
+.contact-page-form,
+.contribute-single-item .content,
+.donation_wrapper {
+    text-align: right;
+}
+
+.widget_search .search-form .submit-btn {
+    left: 0;
+    right: auto;
+    border-radius: 0;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.widget_search .search-form .form-group .form-control {
+    padding-right: 20px;
+    padding-left: 70px;
+}
+
+.job-meta-list li .single-job-meta-block ul li:before {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.job-meta-list li .single-job-meta-block ul li:before {
+    content: "\f104";
+}
+
+.job-information-list li .single-job-info .icon {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.widget.widget_nav_menu,
+.single-events-list-item .content-area,
+.knowledgebase-content-area,
+.single-knowledgebase-list-item,
+.single-knowledgebase-details,
+.widget.widget_price_filter,
+.widget.widget_rating_filter,
+.single-product-item-3 .content,
+.single-product-details,
+.related-product-area .title,
+.related-post-area,
+.blog-details-item,
+.widget.widget_recent_posts,
+.blog-classic-item-01 {
+    text-align: right;
+}
+
+.single-job-list-item .job_type i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.single-job-list-item .jobs-meta li i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.single-job-list-item .jobs-meta li+li {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.donation_wrapper .amount_wrapper input {
+    border-radius: 8px 0px 0px 8px;
+}
+
+.single-events-list-item .content-area .top-part .time-wrap {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.single-events-list-item .thumb {
+    margin-right: 0;
+    margin-left: 30px;
+}
+
+.single-product-item-3 .thumb .tag {
+    left: auto;
+    right: 0;
+}
+
+.product-archive-top-content-area .search-form button {
+    right: auto;
+    left: 0;
+}
+
+.product-archive-top-content-area .search-form .form-control {
+    padding-right: 20px;
+    padding-left: 70px;
+}
+
+.single-product-details .top-content>div:first-child {
+    margin-right: 0;
+    margin-left: 30px;
+}
+
+.single-product-details .extra-content-wrap .nav-tabs .nav-item:first-child {
+    border-top-right-radius: 5px;
+}
+
+.single-product-details .extra-content-wrap .nav-tabs .nav-item+.nav-item {
+    border-left: none;
+    border-right: 1px solid #e2e2e2;
+}
+
+.blog-details-item .post-meta li+li {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.blog-details-footer .right .social-share li.title {
+    margin-left: 10px;
+}
+
+.blog-classic-item-01 .content .post-meta li+li {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.experience-content-03 .icon-area .icon {
+    transform: inherit;
+}
+
+.single-donation-mega-menu-item .content .boxed-btn {
+    text-align: center;
+}
+
+.single-testimonial-item-03 .content .description {
+    padding-right: 0;
+}
+
+.single-testimonial-item-03 .content {
+    padding-right: 0;
+    padding-left: 40px;
+    text-align: right;
+}
+
+.header-area.header-bg-02:after {
+    background-image: url("../img/bg/bg-03-rtl.png");
+}
+
+.navbar-area .nav-container .nav-right-content ul li:last-child {
+    margin-right: 15px;
+}
+
+.top-bar-area.header-variant-06 .top-bar-inner {
+    padding-left: 0px;
+    padding-right: 205px;
+}
+
+.header-inner.logistics-home {
+    text-align: center;
+}
+
+.single-logistic-key-feature-one:after {
+    right: auto;
+    left: 0;
+}
+
+.logistics-single-what-we-cover-item .content,
+.logistic-get-quote,
+.logistic-faq-wrapper,
+.single-portfolio-blog-grid.logistics-page .content,
+.single-expertice-area {
+    text-align: right;
+}
+
+.logistic-single-testimonial-item .content {
+    padding-right: 0px;
+    padding-left: 40px;
+}
+
+.portfolio-home-header-area .right-image {
+    right: auto;
+    left: 15%;
+}
+
+.portfolio-home-header-area .header-inner,
+.portfolio-about-us-section .right-content-area,
+.single-counterup-03,
+.portfolio-cta-area .left-content-wrap,
+.single-portfolio-testimonial-item,
+.single-portfolio-blog-grid {
+    text-align: right;
+}
+
+.portfolio-btn i {
+    margin-left: 0;
+    margin-right: 25px;
+}
+
+.single-counterup-03 .number:after {
+    left: auto;
+    right: 0;
+}
+
+.portfolio-about-us-section .button-wrap a+a {
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+.single-we-offer-item {
+    margin-left: 0;
+    margin-right: 30px;
+    text-align: right;
+}
+
+.single-we-offer-item .icon {
+    left: auto;
+    right: -30px;
+}
+
+.header-bottom-area .bg-img {
+    right: initial;
+    left: 0;
+}
+
+.single-counterup-01 .content .count-wrap {
+    padding: 0px 10px;
+}
+
+.events-single-item .content-wrapper {
+    text-align: right;
+}
+
+.single-blog-grid-01 .content,
+.map-wrapper .contact-wrapper,
+.case-studies-slider-active .owl-item.center .slider-inner-text,
+.singler-counterup-item-01,
+.desktop-left,
+.header-area .header-inner {
+    padding: 0px 10px;
+}
+
+.social-link ul li {
+    padding: 0px 1px;
+}
+
+.info-items li {
+    padding: 0px 5px;
+}
+
+.help-and-support-right .donation-content {
+    position: relative;
+    z-index: 9;
+}
+
+.navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav {
+    margin-right: 275px;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li+li {
+    margin: 0px 7px;
+}
+
+.cause-comment-body #comment_content_div .donoer-info .fa {
+    margin: 0px 5px;
+}
+
+.widget .widget-title {
+    text-align: right;
+}
+
+.event-info .icon-with-title-description li h4 {
+    text-align: right;
+    padding-right: 15px;
+}
+
+.widget ul {
+    text-align: right;
+}
+
+.blog-classic-item-01 .content-wrapper .news-date {
+    margin: 0px 30px;
+}
+
+.single-donor-info .icon {
+    margin-left: 10px;
+}
+
+.thumb-content #main-data .title {
+    text-align: right;
+}
+
+.team-single-item .content .title {
+    text-align: right;
+}
+
+.single-testimonial-item-07 {
+    text-align: right;
+}
+
+.single-testimonial-item-07 .content .author-details .thumb {
+    margin: 0px 10px;
+}
+
+.login-form-wrapper h2 {
+    text-align: right;
+}
+
+.login-form-wrapper .btn-wrapper {
+    text-align: right;
+}
+
+.user-dashboard-card .icon {
+    margin-left: 10px;
+}
+
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_processing,
+.dataTables_wrapper .dataTables_paginate {
+    margin: 0px 160px;
+}
+
+.dashboard-form-wrapper .btn-wrapper {
+    text-align: right;
+}
+
+.help-and-support-left {
+    text-align: right;
+}
+
+.volunteer-slider-container,
+.event-nav-container {
+    text-align: left;
+}
+
+.single-blog-grid-01 .content-wrapper .news-date {
+    margin-right: 0;
+    margin-left: 30px;
+}
+
+.volunteer-slider-container,
+.event-nav-container {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.info-items-03 li i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.single-counterup-01 .icon {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.about-content-area,
+.about-area {
+    text-align: right;
+}
+
+.social-link ul li+li {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.dynamic-page-content-wrap {
+    text-align: right;
+}
+
+.single-donor-info .content .title {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.single-donor-info .content .amount {
+    font-size: 14px;
+}
+
+.single-donor-info .icon {
+    margin-right: 0;
+}
+
+.single-donor-info {
+    text-align: right;
+}
+
+.widget .widget-title:before {
+    border-left: none;
+    padding-right: 0;
+    position: absolute;
+    right: 0px;
+    width: 3px;
+    height: 100%;
+    background-color: var(--main-color-one);
+}
+
+.widget .widget-title {
+    padding-right: 10px;
+}
+
+.alert {
+    text-align: right;
+}
+
+.event-venue-details-information {
+    text-align: right;
+}
+
+.venue-details-block {
+    padding-right: 0;
+    padding-left: 40px;
+}
+
+.event-info .icon-with-title-description li .icon {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.single-contact-item {
+    text-align: right;
+}
+
+.single-contact-item .icon {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.contact-section {
+    text-align: right;
+}
+
+.header-style-01.home-page-variant-02 .topbar-inner {
+    margin-left: 0;
+    margin-right: 300px;
+}
+
+.header-style-01.home-page-variant-02 .topbar-inner .right-contnet .volunteer-right {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.header-style-01.home-page-variant-02 .info-bar-item {
+    display: flex;
+    padding: 9px 30px 9px 30px;
+    margin-left: -50px;
+    text-align: right;
+}
+
+.header-style-01.home-page-variant-02 .info-bar-item .icon {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.header-style-01.home-page-variant-02 .header-bottom-area {
+    text-align: right;
+}
+
+.slider-dots .owl-dots div+div {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.header-area .header-inner-02 {
+    text-align: right;
+}
+
+.support-single-item .icon {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.header-area .header-inner-02.desktop-center {
+    text-align: center;
+}
+
+.newsletter-form-wrap .form-group .form-control {
+    padding-right: 20px;
+    padding-left: 60px;
+}
+
+.navbar-area.nav-style-02 .nav-container .nav-right-content {
+    clip-path: polygon(100% 0, 100% 0%, 80% 100%, 0% 100%, 0% 0, 80% 0);
+}
+
+.header-style-01.header-variant-01 .navbar-area .nav-container .nav-right-content ul {
+    margin-left: 0;
+    text-align: right;
+}
+
+.header-style-01.header-variant-01 .info-bar-item .icon {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.header-style-01.header-variant-01 .topbar-inner {
+    margin-left: 0;
+    margin-right: 300px;
+}
+
+.header-style-01.header-variant-03.inner-page .topbar-inner {
+    margin-left: 0;
+    margin-right: 300px;
+}
+
+.header-style-01.header-variant-03.inner-page .topbar-inner .social-link {
+    margin-left: 10px;
+}
+
+.navbar-area.nav-style-02 .nav-container .logo-wrapper {
+    border-left: 0;
+    border-right: 5px solid var(--main-color-one);
+    clip-path: polygon(25% 0, 100% 0%, 100% 100%, 0% 100%);
+    padding: 30px 20px 30px 70px;
+}
+
+.header-style-01.inner-page .info-bar-item {
+    padding: 9px 30px 9px 0px;
+}
+
+.header-style-01.header-variant-01 .topbar-inner .social-link {
+    margin-left: 10px;
+}
+
+.social-share-wrap ul {
+    text-align: right;
+}
+
+.author-data-tab .tabs li:not(:last-child) {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.share-list-icon .share-title {
+    text-align: right;
+}
+
+.content {
+    text-align: right;
+}
+
+.single-header-bottom-item .content {
+    text-align: center;
+}
+
+.single-what-we-cover-item .content {
+    text-align: center;
+}
+
+.single-header-bottom-item-02 .content {
+    text-align: center;
+}
+
+.single-what-we-cover-item-03 .content {
+    text-align: center;
+}
+
+.single-what-we-cover-item-02 .content {
+    text-align: center;
+}
+
+.logistic-counterup-item .content {
+    text-align: center;
+}
+
+.cagency-counterup-item .content {
+    text-align: center;
+}
+
+.single-logistic-key-feature-one .icon {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.industry-single-info-item .icon {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.industry-info-items li+li {
+    margin-left: 0;
+    margin-right: 30px;
+}
+
+.industry-btn i {
+    text-align: left;
+    padding-left: 15px;
+}
+
+.industry-btn:after {
+    right: auto;
+    left: -10px;
+}
+
+.industry-btn {
+    padding: 10px 30px 10px 0px;
+}
+
+.industry-btn.black i {
+    margin-left: 0px;
+}
+
+.industry-single-what-we-cover-item .icon {
+    text-align: right;
+}
+
+.project-carousel-nav {
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+}
+
+.industry-home.section-title .subtitle {
+    text-align: right;
+    display: block;
+}
+
+.industry-team-single-item .content .social-icons {
+    right: auto;
+    left: 10px;
+}
+
+.industry-testimonial-carousel-nav {
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+}
+
+.desktop-center.industry-home .subtitle {
+    text-align: center;
+}
+
+.cagency-header-static .header-area .right-image {
+    position: absolute;
+    right: auto;
+    left: 0;
+    bottom: 50px;
+}
+
+.cagency-header-static .header-area .right-image img {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 80px;
+}
+
+.cagency-header-static .header-area .right-image .shape-04 {
+    left: auto;
+    right: -70px;
+}
+
+.cagency-single-what-we-cover-item .icon {
+    left: auto;
+    right: 30px;
+}
+
+.creative-agency-call-to-action .right-image-wrap {
+    right: auto;
+    left: 0;
+}
+
+.creative-agency-call-to-action .right-image-wrap img {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 80px;
+}
+
+.cagency-cta-area-inner {
+    text-align: right;
+}
+
+.creative-agency-call-to-action .shape.shape-01 {
+    left: auto;
+    right: 0;
+    transform: rotate(180deg);
+}
+
+.creative-agency-call-to-action .shape.shape-02 {
+    left: auto;
+    right: 45%;
+}
+
+.creative-agency-call-to-action .shape.shape-03 {
+    right: auto;
+    left: 60%;
+}
+
+.creative-agency-call-to-action .shape.shape-04 {
+    left: auto;
+    right: 10%;
+}
+
+.creative-agency-call-to-action .shape.shape-05 {
+    left: auto;
+    right: 2%;
+}
+
+.cagency-btn {
+    background-color: var(--main-color-one);
+    padding: 10px;
+}
+
+.cagency-btn i {
+    margin-left: 0px;
+    margin-right: 10px;
+}
+
+.cagency-single-testimonial-item .author-details .thumb {
+    margin-right: 0px;
+    margin-left: 20px;
+}
+
+.cagency-single-testimonial-item .author-details {
+    justify-content: flex-start;
+}
+
+.cagency-single-testimonial-item .author-details .content {
+    text-align: right;
+}
+
+.construction-single-info-list-item .icon {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.construction-info-list li+li {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.right-content-area {
+    text-align: right;
+}
+
+.construction-video-wrap .experience-wrap {
+    left: auto;
+    right: -50px;
+}
+
+.construction-single-what-we-cover-item .content {
+    text-align: center;
+}
+
+.construction-single-what-we-cover-item .content .readmore i {
+    transform: rotate(180deg);
+}
+
+.construction-quote-area .right-image {
+    right: auto;
+    left: 0;
+}
+
+.section-title.const-home-color .subtitle {
+    display: block;
+}
+
+.construction-home-quote-form .form-group label {
+    text-align: right;
+    display: block;
+}
+
+.construction-home-quote-form .form-group.file .help-info {
+    text-align: right;
+}
+
+.industry-btn {
+    text-align: right;
+    display: block;
+}
+
+.construction-project-nav div {
+    transform: rotate(180deg);
+}
+
+.construction-project-nav div+div {
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+.const-single-testimonial-item .author-details {
+    text-align: right;
+}
+
+.logistic-dots .owl-dots div+div,
+.pcarousel-dots .owl-dots div+div {
+    margin-left: 0px;
+    margin-right: 10px;
+}
+
+.lawyer-about-area .left-content-area {
+    margin-right: 0px;
+    margin-left: 80px;
+    text-align: right;
+}
+
+.lawyer-about-area.lawyer-home .left-content-area .shape {
+    right: auto;
+    left: -40px;
+}
+
+.lawyer-about-area .left-content-area:before {
+    left: auto;
+    right: -30px;
+    clip-path: polygon(0% 0%, 100% 100%, 100% 0%);
+}
+
+.construction-single-what-we-cover-item.lawyer-home {
+    text-align: right;
+}
+
+.construction-single-what-we-cover-item.lawyer-home .content {
+    text-align: right;
+}
+
+.appointment-single-item .thumb .cat {
+    left: auto;
+    right: 10px;
+}
+
+.const-single-case-study-style-02.lawyer-home:hover .cart-icon {
+    text-align: right;
+}
+
+.lawyer-contact-item .icon {
+    margin-right: 0px;
+    margin-left: 20px;
+}
+
+.header-area.political-home .left-image-wrap {
+    left: auto;
+    right: 0;
+}
+
+.political-single-what-we-cover-item .content .readmore i {
+    transform: rotate(180deg);
+}
+
+.logistic-single-testimonial-item.political-home:before {
+    right: auto;
+    left: 0;
+}
+
+.logistic-single-testimonial-item .content .author-details {
+    border-right: 4px solid var(--logistic-color);
+    padding-left: 0px;
+    padding-right: 10px;
+}
+
+.header-area.medical-home .right-image-wrap {
+    right: auto;
+    left: 5%;
+}
+
+.medical-about-area .left-content-area {
+    padding-right: 0px;
+    padding-left: 80px;
+    text-align: right;
+}
+
+.medical-about-area .right-content-area .image-wapper {
+    left: auto;
+    right: 0;
+}
+
+.medical-about-area .right-content-area {
+    text-align: left;
+    position: relative;
+}
+
+.appointment-inner-area .left-content-area {
+    padding-right: 0px;
+    padding-left: 40px;
+    text-align: right;
+}
+
+.logistic-single-testimonial-item.medical-home .content .author-details {
+    border-color: var(--medical-color);
+    border-left: 0;
+}
+
+.single-portfolio-blog-grid.medical-home .content .readmore i {
+    transform: rotate(180deg);
+}
+
+.header-area.charity-home .right-image-wrap {
+    right: auto;
+    left: -10%;
+}
+
+.btn-charity {
+    padding: 10px 30px 10px 10px;
+}
+
+.btn-charity i {
+    margin-left: 0px;
+    margin-right: 25px;
+}
+
+.charity-about-area .right-content-area .image-wrapper:before {
+    right: auto;
+    left: -30px;
+}
+
+.charity-about-area .left-content-area {
+    padding-right: 0px;
+    padding-left: 60px;
+    text-align: right;
+}
+
+.charity-cta-area .cta-area-inner .left-content-area {
+    text-align: right;
+}
+
+.charity-single-testimonial-item .content {
+    text-align: center;
+}
+
+.header-area.cdesign-agency-home .right-image-wrap {
+    right: auto;
+    left: -6%;
+}
+
+.btn-dagency {
+    padding: 10px 30px 10px 12px;
+}
+
+.btn-dagency i {
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+.single-dagency-service-item .content {
+    text-align: center;
+}
+
+.dagency-cta-area .right-image-area {
+    right: auto;
+    left: 0;
+}
+
+.cta-area-inner .left-content-area {
+    text-align: right;
+}
+
+.dagency-info-list li .icon {
+    margin-right: 0px;
+    margin-left: 20px;
+}
+
+.header-slider-wrapper.fruits-home .right-image-wrap {
+    right: auto;
+    left: 1%;
+}
+
+.btn-fruits {
+    padding: 10px 30px 10px 12px;
+}
+
+.btn-fruits i {
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+.offer-item-wrap {
+    text-align: right;
+}
+
+.offer-item-wrap .offer-btn:after {
+    left: auto;
+    right: 0;
+}
+
+.single-process-item-fruit-home .content {
+    text-align: center;
+}
+
+.fruits-home-single-testimonial-item .author-details .thumb img {
+    margin-right: 0px;
+    margin-left: 20px;
+}
+
+.fruits-home-single-testimonial-item .icon {
+    right: auto;
+    left: 60px;
+}
+
+.single-top-selling-product .img-wrapper {
+    margin-right: 0px;
+    margin-left: 20px;
+}
+
+.single-fruit-product-item .tag {
+    left: auto;
+    right: 2px;
+}
+
+.header-slider-wrapper.cleaning-home .right-image-wrap {
+    right: auto;
+    left: -12%;
+}
+
+.cleaning-about-area-wrap .right-content-wrap {
+    text-align: right;
+    margin-left: 0;
+    margin-right: 40px;
+}
+
+.single-cleaning-service-item .thumb .icon {
+    left: auto;
+    right: 20px;
+}
+
+.single-case-studies-item.cleaning-home .content {
+    left: auto;
+    right: 20px;
+}
+
+.cagency-single-testimonial-item.cleaning-home .icon {
+    left: auto;
+    right: 30px;
+}
+
+.header-slider-wrapper.course-home .right-image-wrap {
+    right: auto;
+    left: 5%;
+}
+
+.section-title.course-home .title:after {
+    left: auto;
+    right: 0;
+}
+
+.course-inner-area-wrap .btn-dagency {
+    padding: 10px 30px 10px 10px;
+}
+
+.course-inner-area-wrap .btn-dagency i {
+    transform: rotate(180deg);
+}
+
+.course-inner-area-wrap .left-content-wrap {
+    text-align: right;
+}
+
+
+/*New RTL css*/
+
+.navbar-area.nav-style-02.charity-nav-04 .nav-container .navbar-collapse .navbar-nav {
+    margin-right: 50px;
+}
+
+.navbar-area.nav-style-02.charity-nav-04 .nav-container .logo-wrapper {
+    border-right: none;
+}
+
+.header-area .header-inner-04 .title img {
+    right: 0;
+}
+
+.single-featured .featured-contents .title {
+    text-align: right;
+}
+
+.single-featured .featured-contents p {
+    text-align: right;
+}
+
+.single-featured .featured-contents .btn-wrapper {
+    text-align: right;
+}
+
+.success-contents .success-titles {
+    text-align: right;
+}
+
+.success-contents p {
+    text-align: right;
+}
+
+.success-contents .btn-wrapper {
+    text-align: right;
+}
+
+.single-events .events-flex-contents .events-content .title {
+    text-align: right;
+}
+
+.single-events .events-flex-contents .events-content .content-para {
+    text-align: right;
+}
+
+.single-events .events-flex-contents .events-content .event-place {
+    text-align: right;
+    display: inherit;
+}
+
+.recent-single .recent-contents .title {
+    text-align: right;
+}
+
+.recent-single .recent-contents p {
+    text-align: right;
+}
+
+.blog-contents .blog-tag {
+    text-align: right;
+}
+
+.blog-contents .blog-title {
+    text-align: right;
+}
+
+.single-blog .blog-thums .blog-date-content {
+    right: 0;
+}
+
+.navbar-area.nav-style-02.charity-nav-05 .nav-container .logo-wrapper {
+    border-right: 0;
+}
+
+.navbar-area.nav-style-02.charity-nav-05 .nav-container .navbar-collapse .navbar-nav {
+    margin-right: 50px;
+}
+
+.single-recent-02 .recent-contents .title {
+    text-align: right;
+}
+
+.navbar-area.nav-style-02.charity-nav-06 .nav-container .logo-wrapper {
+    border-right: 0;
+}
+
+.header-area .header-inner-06 .progress-wrapper .progress-item .single-progressbar .progressbar .percentCount {
+    left: auto;
+    right: 105%;
+}
+
+.single-featured.style-02 .featured-contents .progress-item .single-progressbar .progressbar .percentCount {
+    left: 15% !important;
+    right: auto;
+}
+
+.single-featured.style-02 .featured-contents .goal {
+    text-align: right;
+}
+
+.recent-single.style-02.style-02 .recent-contents .goal {
+    text-align: right;
+}
+
+.recent-single.style-02.style-02 .recent-contents .progress-item .single-progressbar .progressbar .percentCount {
+    left: 15% !important;
+    right: auto;
+}
+
+.success-contents .section-title.section-title-five .title {
+    text-align: right;
+}
+
+a.boxed-btn.btn-rounded.btn-outline-white.ml-3 {
+    margin-left: 0;
+    margin-right: 15px;
+}
+
+.success-contents .section-title.section-title-four span {
+    text-align: right;
+}
+
+.navbar-area.nav-style-02.charity-nav-06 .nav-container {
+    padding: 21px 0 20px 0px;
+}
+
+.navbar-area.charity-nav-06 .nav-container .nav-right-content ul {
+    margin-left: 0;
+}
+
+.navbar-area.charity-nav-06 .nav-container .nav-right-content ul li:first-child {
+    margin-left: 0;
+}
+
+.progress-item .single-progressbar .progressbar .percentCount::after {
+    left: auto;
+    right: 0;
+}
+
+.progress-item .single-progressbar .progressbar .percentCount {
+    left: auto;
+    right: 0;
+    width: 35px;
+}
+
+.work-towards-area .left-content .inner-section-title .title {
+    text-align: right;
+}
+
+.work-towards-area .left-content .inner-section-title.desktop-center .title {
+    text-align: center;
+}
+
+.header-bottom-area span {
+    text-align: right;
+    display: inline-block;
+}
+
+.section-title .title {
+    text-align: right;
+}
+
+.section-title.desktop-center .title {
+    text-align: center;
+}
+
+.section-title>span {
+    text-align: right;
+    display: block;
+}
+
+.section-title.desktop-center>span {
+    text-align: center;
+    display: block;
+}
+
+.problem-single-item.style-01 {
+    text-align: right;
+}
+
+.support-single-item {
+    display: flex;
+}
+
+.problem-single-item {
+    text-align: right;
+}
+
+.contribute-single-item .thumb .badge {
+    right: auto;
+    left: 40px;
+}
+
+.topbar-inner.style-01 .right-contnet .social-link {
+    padding-left: 0;
+}
+
+.navbar-area .nav-container .nav-right-content ul {
+    margin-left: 0;
+}
+
+.single-featured .award-icon-two {
+    left: auto;
+    right: 0;
+}
+
+.single-featured-02 .progress-item .single-progressbar .progressbar .percentCount {
+    width: 75px;
+}
+
+.single-counterup-02 .content {
+    text-align: center;
+}
+
+.single-recent-02 .recent-contents .recent-flex .progress-item .single-progressbar .progressbar .percentCount {
+    width: 75px;
+}
+
+.single-events .events-flex-contents .events-content .event-place::before {
+    display: inline-block;
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.single-blog.style-02 .blog-flexs .blog-date-content .blog-dates span {
+    text-align: right;
+    display: block;
+}
+
+.topbar-area.style-02 .topbar-inner.style-01 .right-contnet .social-link ul li.volunteer {
+    margin-left: 0;
+}
+
+.nice-select .nice-select-search {
+    margin: 0 0px 0 10px;
+}
+
+.widget.widget_archive ul li a i {
+    transform: rotate(180deg);
+}
+
+div#donate_box_wrapper {
+    text-align: right;
+}
+
+.widget-area .donoer-info .icon {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.box.donor-load-box .panel-title {
+    text-align: right;
+}
+
+.single-flag-contribute .flag-icon {
+    right: auto;
+    left: 10px;
+}
+
+.auth-details {
+    text-align: right;
+}
+
+div#main-data {
+    text-align: right;
+}
+
+.social-share-wrap .form-group .form-control {
+    padding: 0 15px 0 70px;
+}
+
+.author-data .auth-details ul li+li {
+    margin-left: 0;
+    margin-right: 15px;
+}
+
+.author-data .auth-details ul li i {
+    margin-left: 5px;
+}
+
+.donation-amount-details-wrapper .your-area-donation-wrap .thumb {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.donation-amount-details-wrapper {
+    text-align: right;
+}
+
+.topbar-inner {
+    margin-left: 0;
+    margin-right: 300px;
+}
+
+.problem-single-item .content p {
+    margin-right: 0;
+}
+
+.cause-update-section .cause-update-section-body .thumb {
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+.cause-update-section {
+    text-align: right;
+}
+
+.tab-area-new .single-tabs {
+    text-align: right;
+}
+
+.modal-header .close {
+    margin-left: 0;
+}
+
+.modal-body .form-group {
+    text-align: right;
+}
+
+.modal-footer {
+    -ms-flex-pack: start;
+    justify-content: start;
+}
+
+.donation-image-gallery .owl-dots div+div {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.custom-control.custom-checkbox {
+    position: relative;
+    display: flex;
+    padding-right: 15px;
+}
+
+.custom-control-label::before {
+    top: 1px;
+    left: auto;
+    right: -1.5rem;
+}
+
+.custom-control-label::after {
+    top: 1px;
+    left: auto;
+    right: -1.5rem;
+}
+
+.guest p {
+    text-align: right;
+}
+
+p.input-wrapper {
+    text-align: right;
+}
+
+.event-info .icon-with-title-description li h4 {
+    text-align: right;
+    padding-right: 0;
+}
+
+.custom-switch {
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.custom-switch .custom-control-label::before {
+    left: 0;
+    right: -2.25rem;
+}
+
+.custom-switch .custom-control-label::after {
+    top: calc(0.10rem + 2px);
+}
+
+.single-blog-grid-01 .content-wrapper .news-date {
+    margin-left: 10px;
+}
+
+.donation-form-wrapper label {
+    margin-right: 20px;
+}
+
+span.help-info {
+    margin-top: 10px;
+    display: block;
+}
+
+.nice-select:after {
+    right: auto;
+    left: 12px;
+}
+
+.nice-select {
+    text-align: right!important;
+    padding: 0 15px;
+}
+
+.nice-select .list li {
+    text-align: right;
+}
+
+.dashboard-form-wrapper {
+    text-align: right;
+}
+
+.support-ticket-wrapper {
+    text-align: right;
+}
+
+.user-dashboard-wrapper {
+    text-align: right;
+}
+
+.user-dashboard-wrapper .nav-link i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.user-dashboard-wrapper>ul {
+    text-align: right;
+}
+
+.gig-order-info {
+    text-align: right;
+}
+
+.gig-message-start-wrap {
+    text-align: right;
+}
+
+.reply-message-wrap {
+    text-align: right;
+}
+
+.info-items-02 li.volunteer {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.info-items li {
+    display: inline-flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.info-items li i {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before,
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before {
+    right: auto;
+    left: -10px;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children,
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu {
+    padding-right: 0;
+    padding-left: 5px;
+}
+
+.social-share-wrap .form-group button {
+    right: auto;
+    left: 0;
+}
+
+.text-right {
+    text-align: left !important;
+}
+
+.alert-danger {
+    border-left: 1px solid red;
+    border-right: 5px solid red;
+}
+
+.author-data .thumb {
+    margin-right: 0;
+}
+
+.author-data .thumb img {
+    margin-left: 20px;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu {
+    left: auto;
+    right: 0;
+}
+
+.navbar-area.nav-style-02 .nav-container .nav-right-content {
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+section.success-area .pagination-wrapper {
+    margin-top: 30px;
+}
+
+.job-meta-list li .single-job-meta-block ul li {
+    display: flex;
+}
+
+.job-apply-form-wrapper {
+    text-align: right;
+}
+
+.donation_wrapper .amount_wrapper .suffix {
+    border-left: none;
+    border-right: 2px solid #e2e2e2;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.blog-classic-item-01 .content-wrapper .news-date {
+    margin-right: 0;
+}
+
+.job-success-page-content {
+    text-align: right;
+}
+
+.donation-success-page-content {
+    text-align: right;
+}
+
+
+/*  */
+
+.recent-single.style-02.style-02 .recent-contents .progress-item .single-progressbar .progressbar .percentCount {
+    left: auto !important;
+    right: 15% !important;
+    width: calc(100% - 40px);
+}
+
+.page-item:first-child .page-link {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.page-item:last-child .page-link {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+#gdpr-cookie-message {
+    text-align: right;
+}
+
+#gdpr-cookie-message button:last-child {
+    margin-right: 10px;
+}
+
+#gdpr-cookie-message #gdpr-cookie-close {
+    right: auto !important;
+    left: 10px;
+}
+
+.single-featured.style-02 .featured-contents .progress-item .single-progressbar .progressbar .percentCount {
+    left: auto !important;
+    right: 75% !important;
+}
+
+.alert button.close {
+    position: absolute;
+    right: auto;
+    left: 5px;
+}
+
+.navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children,
+.navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-meta-menu {
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 991px) {
+    .topbar-area.style-01 {
+        overflow: hidden;
+    }
+    .topbar-area .topbar-inner {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .header-style-01.header-variant-01 .topbar-inner {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .header-style-01.home-page-variant-02 .topbar-inner {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav {
+        margin-right: 0;
+    }
+    .header-area .title {
+        font-size: 90px !important;
+        line-height: 100px !important;
+    }
+    .navbar-area.nav-style-02.charity-nav-02 .nav-container .logo-wrapper {
+        padding: 30px 30px;
+        background: var(--secondary-color);
+        box-shadow: none;
+        justify-content: end !important;
+    }
+    .problem-single-item .content p {
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header-area .title {
+        font-size: 70px !important;
+        line-height: 80px !important;
+    }
+}
+
+@media screen and (max-width: 599px) {
+    .header-area .title {
+        font-size: 60px !important;
+        line-height: 70px !important;
+    }
+    .header-style-01.home-page-variant-02 .navbar-area .nav-container .responsive-mobile-menu {
+        display: flex;
+        justify-content: end !important;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .header-area .title {
+        font-size: 50px !important;
+        line-height: 60px !important;
+    }
+    .header-inner-06 .btn-wrapper .boxed-btn {
+        padding: 13px 20px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .header-area .title {
+        font-size: 40px !important;
+        line-height: 50px !important;
+    }
+}
+
+
+.cagency-work-process-list .single-work-process-item:first-child .num-wrap:before{
+    border: none;
+}
+.cagency-work-process-list .single-work-process-item:last-child .num-wrap::before {
+    display: block;
+}
+

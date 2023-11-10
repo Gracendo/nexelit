@@ -1,0 +1,606 @@
+@font-face {
+    font-family: "nexicon";
+    src: url("../webfonts/nexicon.ttf?f0c4452c7bbfac5ea9b99b59955a90d8") format("truetype"),
+url("../webfonts/nexicon.woff?f0c4452c7bbfac5ea9b99b59955a90d8") format("woff"),
+url("../webfonts/nexicon.woff2?f0c4452c7bbfac5ea9b99b59955a90d8") format("woff2"),
+url("../webfonts/nexicon.eot?f0c4452c7bbfac5ea9b99b59955a90d8#iefix") format("embedded-opentype"),
+url("../webfonts/nexicon.svg?f0c4452c7bbfac5ea9b99b59955a90d8#nexicon") format("svg");
+font-display: swap;
+}
+
+i[class^="nexicon-"]:before, i[class*=" nexicon-"]:before {
+    font-family: nexicon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.nexicon-3d-modeling-1:before {
+    content: "\f101";
+}
+.nexicon-3d-modeling:before {
+    content: "\f102";
+}
+.nexicon-accounting:before {
+    content: "\f103";
+}
+.nexicon-agreement-1:before {
+    content: "\f104";
+}
+.nexicon-agreement-2:before {
+    content: "\f105";
+}
+.nexicon-agreement:before {
+    content: "\f106";
+}
+.nexicon-analysis-1:before {
+    content: "\f107";
+}
+.nexicon-analysis-2:before {
+    content: "\f108";
+}
+.nexicon-analysis-3:before {
+    content: "\f109";
+}
+.nexicon-analysis:before {
+    content: "\f10a";
+}
+.nexicon-apple-1:before {
+    content: "\f10b";
+}
+.nexicon-apple-2:before {
+    content: "\f10c";
+}
+.nexicon-apple:before {
+    content: "\f10d";
+}
+.nexicon-apricot:before {
+    content: "\f10e";
+}
+.nexicon-avocado:before {
+    content: "\f10f";
+}
+.nexicon-balance:before {
+    content: "\f110";
+}
+.nexicon-balloons:before {
+    content: "\f111";
+}
+.nexicon-bananas:before {
+    content: "\f112";
+}
+.nexicon-bars-1:before {
+    content: "\f113";
+}
+.nexicon-bars:before {
+    content: "\f114";
+}
+.nexicon-berry:before {
+    content: "\f115";
+}
+.nexicon-blackboard:before {
+    content: "\f116";
+}
+.nexicon-book-1:before {
+    content: "\f117";
+}
+.nexicon-book:before {
+    content: "\f118";
+}
+.nexicon-briefcase-1:before {
+    content: "\f119";
+}
+.nexicon-briefcase:before {
+    content: "\f11a";
+}
+.nexicon-broom-1:before {
+    content: "\f11b";
+}
+.nexicon-broom:before {
+    content: "\f11c";
+}
+.nexicon-bubbles:before {
+    content: "\f11d";
+}
+.nexicon-bucket-1:before {
+    content: "\f11e";
+}
+.nexicon-bucket:before {
+    content: "\f11f";
+}
+.nexicon-bullhorn:before {
+    content: "\f120";
+}
+.nexicon-calendar-1:before {
+    content: "\f121";
+}
+.nexicon-calendar-2:before {
+    content: "\f122";
+}
+.nexicon-calendar-3:before {
+    content: "\f123";
+}
+.nexicon-calendar:before {
+    content: "\f124";
+}
+.nexicon-campaign:before {
+    content: "\f125";
+}
+.nexicon-cancel:before {
+    content: "\f126";
+}
+.nexicon-cap:before {
+    content: "\f127";
+}
+.nexicon-capitol:before {
+    content: "\f128";
+}
+.nexicon-certificate-1:before {
+    content: "\f129";
+}
+.nexicon-certificate:before {
+    content: "\f12a";
+}
+.nexicon-chat-1:before {
+    content: "\f12b";
+}
+.nexicon-chat-2:before {
+    content: "\f12c";
+}
+.nexicon-chat:before {
+    content: "\f12d";
+}
+.nexicon-check:before {
+    content: "\f12e";
+}
+.nexicon-cherries:before {
+    content: "\f12f";
+}
+.nexicon-cleaning-mop:before {
+    content: "\f130";
+}
+.nexicon-cleaning-tools:before {
+    content: "\f131";
+}
+.nexicon-cleaning:before {
+    content: "\f132";
+}
+.nexicon-coding-1:before {
+    content: "\f133";
+}
+.nexicon-coding-2:before {
+    content: "\f134";
+}
+.nexicon-coding:before {
+    content: "\f135";
+}
+.nexicon-consulting:before {
+    content: "\f136";
+}
+.nexicon-contact:before {
+    content: "\f137";
+}
+.nexicon-court:before {
+    content: "\f138";
+}
+.nexicon-crm:before {
+    content: "\f139";
+}
+.nexicon-dart-board:before {
+    content: "\f13a";
+}
+.nexicon-data-visualization:before {
+    content: "\f13b";
+}
+.nexicon-debate:before {
+    content: "\f13c";
+}
+.nexicon-design:before {
+    content: "\f13d";
+}
+.nexicon-desktop-computer:before {
+    content: "\f13e";
+}
+.nexicon-developer:before {
+    content: "\f13f";
+}
+.nexicon-doctor:before {
+    content: "\f140";
+}
+.nexicon-donation:before {
+    content: "\f141";
+}
+.nexicon-electrocardiogram:before {
+    content: "\f142";
+}
+.nexicon-engineering:before {
+    content: "\f143";
+}
+.nexicon-event-1:before {
+    content: "\f144";
+}
+.nexicon-event-2:before {
+    content: "\f145";
+}
+.nexicon-event:before {
+    content: "\f146";
+}
+.nexicon-feather-duster:before {
+    content: "\f147";
+}
+.nexicon-finance-1:before {
+    content: "\f148";
+}
+.nexicon-finance:before {
+    content: "\f149";
+}
+.nexicon-finances:before {
+    content: "\f14a";
+}
+.nexicon-folder:before {
+    content: "\f14b";
+}
+.nexicon-forecast-analytics:before {
+    content: "\f14c";
+}
+.nexicon-fruits-1:before {
+    content: "\f14d";
+}
+.nexicon-fruits:before {
+    content: "\f14e";
+}
+.nexicon-funding:before {
+    content: "\f14f";
+}
+.nexicon-goal-1:before {
+    content: "\f150";
+}
+.nexicon-goal:before {
+    content: "\f151";
+}
+.nexicon-graduated-1:before {
+    content: "\f152";
+}
+.nexicon-graduated:before {
+    content: "\f153";
+}
+.nexicon-graduation-cap:before {
+    content: "\f154";
+}
+.nexicon-graduation:before {
+    content: "\f155";
+}
+.nexicon-grapes:before {
+    content: "\f156";
+}
+.nexicon-group-1:before {
+    content: "\f157";
+}
+.nexicon-group:before {
+    content: "\f158";
+}
+.nexicon-growth:before {
+    content: "\f159";
+}
+.nexicon-harvest-1:before {
+    content: "\f15a";
+}
+.nexicon-harvest-2:before {
+    content: "\f15b";
+}
+.nexicon-harvest:before {
+    content: "\f15c";
+}
+.nexicon-health-check:before {
+    content: "\f15d";
+}
+.nexicon-healthcare:before {
+    content: "\f15e";
+}
+.nexicon-healthy-food:before {
+    content: "\f15f";
+}
+.nexicon-heartbeat:before {
+    content: "\f160";
+}
+.nexicon-hexagonal:before {
+    content: "\f161";
+}
+.nexicon-hospital:before {
+    content: "\f162";
+}
+.nexicon-household:before {
+    content: "\f163";
+}
+.nexicon-inequality:before {
+    content: "\f164";
+}
+.nexicon-infection:before {
+    content: "\f165";
+}
+.nexicon-integrity:before {
+    content: "\f166";
+}
+.nexicon-judge:before {
+    content: "\f167";
+}
+.nexicon-law-1:before {
+    content: "\f168";
+}
+.nexicon-law-book:before {
+    content: "\f169";
+}
+.nexicon-law:before {
+    content: "\f16a";
+}
+.nexicon-lawyer:before {
+    content: "\f16b";
+}
+.nexicon-leader:before {
+    content: "\f16c";
+}
+.nexicon-leadership:before {
+    content: "\f16d";
+}
+.nexicon-legal:before {
+    content: "\f16e";
+}
+.nexicon-liquid-soap:before {
+    content: "\f16f";
+}
+.nexicon-location:before {
+    content: "\f170";
+}
+.nexicon-map:before {
+    content: "\f171";
+}
+.nexicon-market-analysis:before {
+    content: "\f172";
+}
+.nexicon-medical-report:before {
+    content: "\f173";
+}
+.nexicon-medicine:before {
+    content: "\f174";
+}
+.nexicon-megaphone:before {
+    content: "\f175";
+}
+.nexicon-mobile-app:before {
+    content: "\f176";
+}
+.nexicon-money-1:before {
+    content: "\f177";
+}
+.nexicon-money-bag:before {
+    content: "\f178";
+}
+.nexicon-money:before {
+    content: "\f179";
+}
+.nexicon-mortarboard-1:before {
+    content: "\f17a";
+}
+.nexicon-mortarboard:before {
+    content: "\f17b";
+}
+.nexicon-online-learning:before {
+    content: "\f17c";
+}
+.nexicon-online:before {
+    content: "\f17d";
+}
+.nexicon-oosouji:before {
+    content: "\f17e";
+}
+.nexicon-open-book:before {
+    content: "\f17f";
+}
+.nexicon-orange:before {
+    content: "\f180";
+}
+.nexicon-organization-chart:before {
+    content: "\f181";
+}
+.nexicon-party-1:before {
+    content: "\f182";
+}
+.nexicon-party:before {
+    content: "\f183";
+}
+.nexicon-pharmacy:before {
+    content: "\f184";
+}
+.nexicon-placeholder:before {
+    content: "\f185";
+}
+.nexicon-plunger:before {
+    content: "\f186";
+}
+.nexicon-politician-1:before {
+    content: "\f187";
+}
+.nexicon-politician:before {
+    content: "\f188";
+}
+.nexicon-prescription:before {
+    content: "\f189";
+}
+.nexicon-presentation-1:before {
+    content: "\f18a";
+}
+.nexicon-presentation:before {
+    content: "\f18b";
+}
+.nexicon-products:before {
+    content: "\f18c";
+}
+.nexicon-profit:before {
+    content: "\f18d";
+}
+.nexicon-programming:before {
+    content: "\f18e";
+}
+.nexicon-puzzle:before {
+    content: "\f18f";
+}
+.nexicon-ramadan:before {
+    content: "\f190";
+}
+.nexicon-rate:before {
+    content: "\f191";
+}
+.nexicon-reading:before {
+    content: "\f192";
+}
+.nexicon-report:before {
+    content: "\f193";
+}
+.nexicon-ribbon:before {
+    content: "\f194";
+}
+.nexicon-salary:before {
+    content: "\f195";
+}
+.nexicon-searching:before {
+    content: "\f196";
+}
+.nexicon-secure:before {
+    content: "\f197";
+}
+.nexicon-seo:before {
+    content: "\f198";
+}
+.nexicon-setting:before {
+    content: "\f199";
+}
+.nexicon-shopping-cart:before {
+    content: "\f19a";
+}
+.nexicon-software-1:before {
+    content: "\f19b";
+}
+.nexicon-software-2:before {
+    content: "\f19c";
+}
+.nexicon-software:before {
+    content: "\f19d";
+}
+.nexicon-solidarity:before {
+    content: "\f19e";
+}
+.nexicon-speech-1:before {
+    content: "\f19f";
+}
+.nexicon-speech-2:before {
+    content: "\f1a0";
+}
+.nexicon-speech:before {
+    content: "\f1a1";
+}
+.nexicon-spray:before {
+    content: "\f1a2";
+}
+.nexicon-start-up:before {
+    content: "\f1a3";
+}
+.nexicon-statistics:before {
+    content: "\f1a4";
+}
+.nexicon-stats:before {
+    content: "\f1a5";
+}
+.nexicon-stock-market:before {
+    content: "\f1a6";
+}
+.nexicon-strawberry-1:before {
+    content: "\f1a7";
+}
+.nexicon-strawberry-2:before {
+    content: "\f1a8";
+}
+.nexicon-strawberry:before {
+    content: "\f1a9";
+}
+.nexicon-supporter:before {
+    content: "\f1aa";
+}
+.nexicon-sweeping-1:before {
+    content: "\f1ab";
+}
+.nexicon-sweeping:before {
+    content: "\f1ac";
+}
+.nexicon-teaching:before {
+    content: "\f1ad";
+}
+.nexicon-teamwork:before {
+    content: "\f1ae";
+}
+.nexicon-test:before {
+    content: "\f1af";
+}
+.nexicon-thumbs-up:before {
+    content: "\f1b0";
+}
+.nexicon-time-management-1:before {
+    content: "\f1b1";
+}
+.nexicon-time-management:before {
+    content: "\f1b2";
+}
+.nexicon-time:before {
+    content: "\f1b3";
+}
+.nexicon-tissue-paper:before {
+    content: "\f1b4";
+}
+.nexicon-translate:before {
+    content: "\f1b5";
+}
+.nexicon-united:before {
+    content: "\f1b6";
+}
+.nexicon-university:before {
+    content: "\f1b7";
+}
+.nexicon-vacuum-cleaner-1:before {
+    content: "\f1b8";
+}
+.nexicon-vacuum-cleaner:before {
+    content: "\f1b9";
+}
+.nexicon-vacuum:before {
+    content: "\f1ba";
+}
+.nexicon-video-tutorials:before {
+    content: "\f1bb";
+}
+.nexicon-vote:before {
+    content: "\f1bc";
+}
+.nexicon-wallet:before {
+    content: "\f1bd";
+}
+.nexicon-washing-machine:before {
+    content: "\f1be";
+}
+.nexicon-web-development:before {
+    content: "\f1bf";
+}
+.nexicon-web-programming:before {
+    content: "\f1c0";
+}
+.nexicon-wipe:before {
+    content: "\f1c1";
+}
+.nexicon-work:before {
+    content: "\f1c2";
+}
+.nexicon-writing:before {
+    content: "\f1c3";
+}

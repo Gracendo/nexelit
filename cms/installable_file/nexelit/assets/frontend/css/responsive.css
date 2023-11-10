@@ -1,0 +1,2165 @@
+
+@media only screen and (max-width: 1700px){
+    .creative-agency-call-to-action .right-image-wrap {
+        right: -20%;
+    }
+}
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+    .case-studies-slider-active .owl-item.active.center {
+        width: 750px !important
+    }
+
+    .case-studies-slider-active .owl-item.active {
+        width: 250px !important
+    }
+
+    .portfolio-home-header-area .right-image {
+        position: absolute;
+        right: 5%;
+        bottom: 0
+    }
+
+    .construction-quote-area .right-image {
+        right: 0
+    }
+
+    .cagency-header-static .header-area .right-image {
+        right: -15%
+    }
+
+    .creative-agency-call-to-action .right-image-wrap {
+        right: -25%
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .header-area .title {
+        font-size: 65px;
+        line-height: 75px
+    }
+
+    .nav-right-content {
+        display: none !important
+    }
+
+    .case-studies-slider-active .owl-item.active.center {
+        width: 650px !important
+    }
+
+    .case-studies-slider-active .owl-item.active {
+        width: 250px !important
+    }
+
+    .quality-content-wrapper {
+        margin-left: 50px
+    }
+
+    .quote-block-with-sign p {
+        font-size: 22px
+    }
+
+    .single-icon-box-01 {
+        padding: 20px
+    }
+
+    .blog-grid-carousel .owl-nav div.owl-next {
+        right: 0
+    }
+
+    .blog-grid-carousel .owl-nav div {
+        left: 0
+    }
+
+    .single-testimonial-item-02 .quote-details {
+        padding: 65px 40px 80px 60px
+    }
+
+    .single-our-attoryney-item .img-wrapper .bg-image {
+        min-height: 300px
+    }
+
+    .case-category-list .single-case-item .content .title {
+        font-size: 24px;
+        line-height: 34px
+    }
+
+    .experience-content-02 {
+        padding: 130px 0 140px 50px
+    }
+
+    .single-contact-item {
+        padding: 25px 10px
+    }
+
+    .singler-counterup-item-01 .content .count-wrap {
+        font-size: 40px;
+        line-height: 50px
+    }
+
+    .portfolio-about-us-section .img-wrapper .shape-06, .portfolio-home-header-area .right-image {
+        display: none
+    }
+
+    .header-style-03.header-variant-06 .logo-wrapper:after {
+        left: -5%;
+        top: -32px;
+        width: 110%;
+        height: 91px;
+        clip-path: none
+    }
+
+    .header-inner.logistics-home .title {
+        font-size: 50px;
+        line-height: 70px
+    }
+
+    .header-style-03.header-variant-06 .navbar-area.nav-fixed .logo-wrapper:after {
+        height: 80px;
+        clip-path: none
+    }
+
+    .construction-quote-area .right-image {
+        right: -20%
+    }
+
+    .construction-video-wrap .experience-wrap {
+        left: -20px
+    }
+
+    .cagency-header-static .header-area .right-image {
+        display: none
+    }
+
+    .header-style-03.header-variant-08 .navbar-area .nav-container {
+        padding: 0
+    }
+
+    .creative-agency-call-to-action .right-image-wrap {
+        display: none
+    }
+
+    .header-style-03.header-variant-07 .responsive-mobile-menu:after {
+        top: -25px;
+        height: 121px;
+        z-index: -1
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .product-widget-area {
+        margin-top: 40px
+    }
+
+    .nav-right-content {
+        display: none !important
+    }
+
+    .header-area .header-video {
+        display: none
+    }
+
+    .navbar-area .navbar-collapse {
+        position: absolute;
+        top: 100%;
+        background: #fff;
+        z-index: 9;
+        right: 0;
+        width: 100%;
+        padding-left: 20px
+    }
+
+    .navbar-area.nav-style-01 .nav-container .navbar-collapse .navbar-nav li a {
+        color: var(--paragraph-color) !important;
+    }
+
+    .navbar-area.nav-style-01 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before {
+        color: var(--paragraph-color) !important;
+    }
+
+    .header-bottom-area.padding-bottom-80.padding-top-80 {
+        padding-top: 40px
+    }
+
+    .experience-content .content {
+        position: initial;
+        top: 0;
+        transform: translateY(0)
+    }
+
+    .experience-content .content .title {
+        max-width: inherit;
+        margin-bottom: 40px
+    }
+
+    .case-studies-slider-active .owl-item.active.center {
+        width: 750px !important
+    }
+
+    .case-studies-slider-active .owl-item.active {
+        width: 250px !important
+    }
+
+    .call-to-action-inner {
+        display: block
+    }
+
+    .header-bottom-area.bg-blue.padding-bottom-120 {
+        padding-bottom: 90px
+    }
+
+    .single-testimonial-item-02 .content .description {
+        font-size: 26px
+    }
+
+    .single-testimonial-item .content .description {
+        font-size: 32px;
+        line-height: 42px
+    }
+
+    .quality-content-wrapper {
+        margin-left: 30px
+    }
+
+    .quality-content-wrapper {
+        max-width: inherit;
+        padding-right: 30px
+    }
+
+    .single-what-img img {
+        width: 100%
+    }
+
+    .single-what-we-cover-item-02 .icon-02 {
+        margin-top: -40px
+    }
+
+    .experience-content-02::after {
+        background-color: transparent
+    }
+
+    .single-header-bottom-item {
+        margin-bottom: 30px
+    }
+
+    .pricing-plan-area.bg-liteblue.price-inner.padding-bottom-120.padding-top-110 {
+        padding-bottom: 90px
+    }
+
+    .pricing-plan-area.bg-liteblue.price-inner.padding-bottom-120.margin-top-50.padding-top-110 {
+        padding-bottom: 90px
+    }
+
+    .single-header-bottom-item-02 {
+        border: 1px solid #d7d7d7
+    }
+
+    .testimonial-area .section-title-inner {
+        margin-bottom: 40px
+    }
+
+    .what-we-cover.bg-image {
+        padding: 120px 0
+    }
+
+    .single-what-we-cover-item-03 {
+        padding: 0;
+        padding-bottom: 10px
+    }
+
+    .single-testimonial-item .icon {
+        margin-right: 50px
+    }
+
+    .single-testimonial-item-03 .thumb {
+        max-width: 250px
+    }
+
+    .inner-contact-section.padding-top-120.padding-bottom-120 {
+        padding-bottom: 90px
+    }
+
+    .single-contact-item {
+        margin-bottom: 30px
+    }
+
+    .experience-content-03 {
+        padding-top: 55px
+    }
+
+    .case-category-list .single-case-item {
+        width: calc(100% / 2)
+    }
+
+    .case-category-list.white .single-case-item + .single-case-item {
+        border: 1px solid rgba(255, 255, 255, .2)
+    }
+
+    .single-testimonial-item-03 {
+        display: block
+    }
+
+    .single-testimonial-item-02 .quote-details {
+        padding: 65px 40px 57px 50px
+    }
+
+    .single-testimonial-item-02 .quote-details p {
+        font-size: 24px;
+        line-height: 40px
+    }
+
+    .experience-content-03.section-padding {
+        padding: 50px 0 0
+    }
+
+    .case-sidebar, .practice-sidebar, .widget-area, .widget-nav-menu {
+        margin-top: 40px
+    }
+
+    .pricing-plan-area.bg-image.bg-liteblue.price-inner.padding-bottom-120.padding-top-110 {
+        padding-bottom: 90px
+    }
+
+    .pricing-plan-area.price-inner.padding-bottom-120.margin-top-70.padding-top-110 {
+        padding-bottom: 90px
+    }
+
+    .single-price-plan-01 {
+        margin-bottom: 30px
+    }
+
+    .attorney-contact-form-wrap {
+        margin-top: 40px
+    }
+
+    .bottom-content-area.padding-top-120 {
+        padding-top: 40px
+    }
+
+    .contact-page-form-wrap {
+        margin-top: 60px
+    }
+
+    .case-category-list .single-case-item .icon {
+        font-size: 50px;
+        line-height: 60px
+    }
+
+    .map-wrapper .contact-wrapper {
+        left: 0
+    }
+
+    .map-img {
+        padding-top: 60px
+    }
+
+    #map-2 {
+        min-height: 500px
+    }
+
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:hover > .xg_mega_menu_wrapper {
+        position: initial;
+        box-shadow: none;
+        width: 100%;
+        max-width: 100%
+    }
+
+    .xg-mega-menu-container {
+        padding: 10px 0
+    }
+
+    .xg-mega-menu-single-column-wrap {
+        margin-bottom: 20px
+    }
+
+    .navbar-area.nav-style-01 .nav-container .navbar-collapse .navbar-nav li:hover .sub-menu {
+        margin-top: 10px
+    }
+
+    .navbar-area.nav-style-01 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li + li {
+        border-top: none
+    }
+
+    .navbar-area .navbar-collapse {
+        z-index: 99999
+    }
+
+    .navbar-area.nav-style-01 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before {
+        color: var(--paragraph-color);
+        padding-right: 19px
+    }
+
+    .single-donation-mega-menu-item .boxed-btn {
+        text-align: center
+    }
+
+    .navbar-area.nav-style-01 .nav-container .navbar-collapse .navbar-nav li {
+        line-height: 26px !important
+    }
+
+    .single-product-item-3 {
+        display: inline-block
+    }
+
+    .single-product-item-3 .thumb {
+        height: auto
+    }
+
+    .singler-counterup-item-01 {
+        margin-bottom: 30px
+    }
+
+    .experience-content-02 {
+        padding-left: 15px;
+        padding-right: 30px
+    }
+
+    .experience-content-02 .sign-area p, .experience-content-02 p {
+        width: 100%;
+        max-width: 100%
+    }
+
+    .single-testimonial-item-03 .thumb {
+        max-width: initial;
+        margin-top: 40px
+    }
+
+    .what-we-cover.bg-image {
+        padding-bottom: 60px
+    }
+
+    .donation_wrapper .payment-gateway-wrapper ul li {
+        max-width: 80px
+    }
+
+    .donation_wrapper .payment-gateway-wrapper ul li + li {
+        margin-left: 10px
+    }
+
+    .contact_map {
+        margin-bottom: 120px;
+        height: 400px
+    }
+
+    .contact_map iframe {
+        height: 400px
+    }
+
+    .user-dashboard-card {
+        margin-bottom: 30px
+    }
+
+    .mobile-cart a {
+        display: inline-block;
+        position: absolute;
+        right: 80px;
+        top: 25px
+    }
+
+    .portfolio-about-us-section .img-wrapper .shape-06, .portfolio-home-header-area .right-image {
+        display: none
+    }
+
+    .portfolio-home-header-area {
+        padding: 250px 0 200px
+    }
+
+    .single-counterup-03 {
+        margin-bottom: 30px
+    }
+
+    .portfolio-about-us-section .right-content-area {
+        margin-top: 50px
+    }
+
+    .single-expertice-area .title {
+        font-size: 23px;
+        line-height: 32px
+    }
+
+    .portfolio-cta-area .right-content-wrap {
+        display: none
+    }
+
+    .header-style-03.header-variant-06 .logo-wrapper:after {
+        left: -5%;
+        top: -28px;
+        width: 170px;
+        height: 81px;
+        clip-path: none
+    }
+
+    .top-bar-area.header-variant-06 .top-bar-inner {
+        padding-left: 0
+    }
+
+    .header-style-03.header-variant-06 .mobile-cart a .pcount {
+        color: #fff
+    }
+
+    .header-style-03.header-variant-06 .mobile-cart a {
+        display: inline-block;
+        position: absolute;
+        right: 80px;
+        top: 8px;
+        color: var(--paragraph-color)
+    }
+
+    .header-style-03.header-variant-06 {
+        z-index: 2
+    }
+
+    .header-style-03.header-variant-06 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before {
+        top: 20px;
+        right: 20px
+    }
+
+    .xg_mega_menu_wrapper {
+        max-width: 100%;
+        top: auto
+    }
+
+    .single-logistic-key-feature-one {
+        width: 50%
+    }
+
+    .lkey-features-list {
+        flex-wrap: wrap
+    }
+
+    .logistic-counterup-item {
+        margin-bottom: 30px
+    }
+
+    .logistic-faq-wrapper {
+        margin-top: 60px
+    }
+
+    .construction-quote-area .right-image {
+        display: none
+    }
+
+    .construction-video-wrap .experience-wrap {
+        left: -20px
+    }
+
+    .construction-video-wrap {
+        margin-bottom: 100px
+    }
+
+    .construction-counterup-item {
+        margin-bottom: 30px
+    }
+
+    .construction-case-study-carousel .owl-stage {
+        left: 0
+    }
+
+    .construction-support-area .support-inner .left-content-wrap {
+        display: none
+    }
+
+    .construction-support-area .support-inner {
+        justify-content: center
+    }
+
+    .header-style-03.header-variant-09 .mobile-cart a {
+        top: 10px
+    }
+
+    .header-style-03.header-variant-09 .navbar-area .nav-container .responsive-mobile-menu .navbar-toggler {
+        background-color: #fff
+    }
+
+    .header-style-03.header-variant-09 {
+        z-index: 1
+    }
+
+    .header-style-03.header-variant-07 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before, .header-style-03.header-variant-07 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before, .header-style-03.header-variant-08 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before, .header-style-03.header-variant-08 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before, .header-style-03.header-variant-09 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before, .header-style-03.header-variant-09 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before {
+        position: absolute;
+        right: 20px
+    }
+
+    .header-style-03.header-variant-07 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before, .header-style-03.header-variant-08 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before, .header-style-03.header-variant-09 .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before {
+        top: 30px
+    }
+
+    .xg-mega-menu-container {
+        padding: 10px 0;
+        width: 100%;
+        max-width: 100%
+    }
+
+    .cagency-header-static .header-area .right-image {
+        display: none
+    }
+
+    .header-style-03.header-variant-08 .navbar-area .nav-container {
+        padding: 0
+    }
+
+    .creative-agency-call-to-action .right-image-wrap {
+        display: none
+    }
+
+    .cagency-header-static .header-area {
+        padding: 150px 0 100px
+    }
+
+    .header-style-03.header-variant-08 {
+        border-bottom: 1px solid rgba(0, 0, 0, .2)
+    }
+
+    .header-style-03.header-variant-08 .mobile-cart a {
+        color: var(--paragraph-color)
+    }
+
+    .cagency-counterup-item {
+        margin-bottom: 60px
+    }
+
+    .cagency-work-process-list {
+        flex-wrap: wrap;
+        justify-content: initial
+    }
+
+    .cagency-work-process-list .single-work-process-item {
+        width: 50%;
+        margin-bottom: 50px
+    }
+
+    .cagency-work-process-list .single-work-process-item .num-wrap:before {
+        display: none
+    }
+
+    .header-style-03.header-variant-07 .responsive-mobile-menu .logo {
+        position: inherit
+    }
+
+    .header-style-03.header-variant-07 .responsive-mobile-menu:after {
+        right: 50%;
+        top: -11px;
+        height: 80px
+    }
+
+    .header-style-03.header-variant-07 .responsive-mobile-menu {
+        margin-right: 0
+    }
+
+    .header-style-03.header-variant-07 .navbar-area .nav-container .responsive-mobile-menu .navbar-toggler {
+        background-color: #fff
+    }
+
+    .header-style-03.header-variant-07 .nav-container {
+        padding: 0
+    }
+
+    .header-style-03.header-variant-07 {
+        z-index: 2
+    }
+
+    .header-style-03.header-variant-07 .navbar-area .nav-container .navbar-collapse .navbar-nav li {
+        color: var(--paragraph-color);
+        line-height: 26px
+    }
+
+    .industry-counterup-item {
+        margin-bottom: 40px
+    }
+    /* appointment system */
+    .appointment-content-area .top-search-wrapper {
+        display: block;
+    }
+    .appointment-content-area .top-search-wrapper > div {
+        width: 100%;
+    }
+    .appointment-content-area .top-search-wrapper .left-part .search-wrapper {
+        padding-left: 0;
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .nav-right-content {
+        display: block !important;
+    }
+}
+
+@media only screen and (max-width: 770px) {
+    .contact_map {
+        height: 700px
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .call-to-action-inner .title, .experience-content .content .title, .experience-content-02 .title, .experience-content-03 .title, .global-content .title, .quality-content-wrapper .title, .single-testimonial-item-03 .content .title {
+        font-size: 42px;
+        line-height: 52px
+    }
+
+    .case-studies-slider-active .owl-item.active.center {
+        width: 650px !important
+    }
+
+    .testimonial-area .section-title-inner {
+        margin-bottom: 40px
+    }
+
+    .single-testimonial-item .icon {
+        margin-right: 50px
+    }
+
+    .case-category-list.white .single-case-item + .single-case-item {
+        border: 1px solid rgba(255, 255, 255, .2)
+    }
+
+    .single-testimonial-item-02 .quote-details {
+        padding: 65px 40px 57px 50px
+    }
+
+    .single-testimonial-item-02 .quote-details p {
+        font-size: 24px;
+        line-height: 40px
+    }
+
+    .widget-area {
+        margin-top: 60px
+    }
+
+    .single-price-plan-01 {
+        margin-bottom: 30px
+    }
+
+    .attorney-contact-form-wrap {
+        margin-top: 40px
+    }
+
+    .bottom-content-area.padding-top-120 {
+        padding-top: 40px
+    }
+
+    .contact-page-form-wrap {
+        margin-top: 60px
+    }
+
+    .header-area .title {
+        font-size: 55px;
+        line-height: 65px
+    }
+
+    .header-area p {
+        font-size: 16px;
+        line-height: 26px
+    }
+
+    .single-counterup-block-with-img {
+        display: block;
+        text-align: center;
+        margin: 0 auto
+    }
+
+    .single-counterup-block-with-img img {
+        width: 100%
+    }
+
+    .call-to-action-inner.style-02 .title, .legal-support-area .title-wrap .title, .section-title .title, .section-title-inner .title, .top-lawyer-02 .center-content-area .title, .top-laywer-area-03 .content-area .title {
+        font-size: 42px;
+        line-height: 52px
+    }
+
+    .section-title-inner {
+        text-align: center
+    }
+
+    .section-title-inner .subtitle:after {
+        display: none
+    }
+
+    .section-title-inner .subtitle {
+        padding-left: 0
+    }
+
+    .single-price-plan-01 .price-header .price-wrap .price {
+        font-size: 65px
+    }
+
+    .single-testimonial-item-02 .quote-details {
+        padding: 40px 30px 43px 30px
+    }
+
+    .single-testimonial-item-02 .quote-details p {
+        font-size: 20px;
+        line-height: 35px
+    }
+
+    .single-testimonial-item-02 .quote-details .author-details .thumb {
+        width: 60px;
+        height: 60px;
+        margin-right: 15px
+    }
+
+    .single-testimonial-item-02 .quote-details .author-details .author-meta .title {
+        font-size: 15px;
+        margin-bottom: 0
+    }
+
+    .single-testimonial-item-02 .quote-details .author-details .author-meta .designation {
+        font-size: 13px
+    }
+
+    .single-counterup-02 {
+        text-align: center;
+        margin-bottom: 30px
+    }
+
+    .topbar-inner div .boxed-btn {
+        padding: 15px 15px;
+        font-size: 14px
+    }
+
+    .topbar-area.style-04 .info-items li {
+        display: block;
+        margin-left: 0
+    }
+
+    .topbar-area.style-04 {
+        margin-bottom: 30px
+    }
+
+    .header-style-04.has-top-bar .navbar-area {
+        top: 105px
+    }
+
+    .header-style-04.has-top-bar .header-area {
+        padding-bottom: 270px
+    }
+
+    .single-counterup-02 .count-wrap {
+        font-size: 48px;
+        line-height: 58px;
+        margin-bottom: 0
+    }
+
+    .single-what-we-cover-item-02 .thumb img {
+        width: 100%
+    }
+
+    .blog-details-item .title {
+        font-size: 30px
+    }
+
+    .experience-content-02 {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+
+    .top-bar-inner .left-content {
+        display: none
+    }
+
+    .top-bar-inner {
+        justify-content: center
+    }
+
+    .navbar-area.nav-fixed .nav-container .navbar-collapse .navbar-nav li {
+        line-height: 26px !important
+    }
+
+    .single-product-item-3 {
+        display: block
+    }
+
+    .single-product-item-3 .thumb img {
+        width: 100%
+    }
+
+    .single-product-details .top-content {
+        display: block
+    }
+
+    .single-product-details .top-content > div:first-child {
+        width: 100%;
+        margin-right: 0
+    }
+
+    .single-product-details .top-content .product-summery {
+        margin-top: 40px
+    }
+
+    .nx-modal-inner-content-wrapper {
+        width: calc(100% - 20px);
+        margin-left: 10px;
+        height: calc(100% - 20px);
+        margin-top: 40px
+    }
+
+    .nx-popup-wrapper {
+        overflow-y: scroll
+    }
+
+    .promotional-modal-content-wrapper .right-content-warp .title {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 10px
+    }
+
+    .promotional-modal-content-wrapper .right-content-warp p {
+        font-size: 14px;
+        line-height: 28px
+    }
+
+    .promotional-modal-content-wrapper .left-content-warp img {
+        max-height: 300px
+    }
+
+    .discount-modal-content-wrapper .left-content-warp img {
+        max-height: 300px
+    }
+
+    .discount-modal-content-wrapper .right-content-warp .title {
+        font-size: 36px;
+        line-height: 46px
+    }
+
+    .discount-modal-content-wrapper .right-content-warp p {
+        font-size: 15px;
+        line-height: 22px
+    }
+
+    .discount-modal-content-wrapper .nx-singular-countdown-item .time {
+        font-size: 24px;
+        line-height: 25px;
+        padding-top: 5px
+    }
+
+    .discount-modal-content-wrapper .nx-singular-countdown-item .label {
+        font-size: 10px;
+        line-height: 10px;
+        font-weight: 700;
+        margin-bottom: 5px
+    }
+
+    .contact_map {
+        height: 700px
+    }
+
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-mega-menu:before {
+        top: 30px
+    }
+
+    .portfolio-home-header-area .header-inner .title {
+        font-size: 64px;
+        line-height: 63px
+    }
+
+    .portfolio-home-header-area .header-inner .profession {
+        font-size: 26px;
+        line-height: 35px;
+        margin-bottom: 30px
+    }
+
+    .portfolio-home-header-area .header-inner .subtitle {
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 10px
+    }
+
+    .single-expertice-area .number {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 15px
+    }
+
+    .single-we-offer-item .content-wrap .title {
+        font-size: 26px;
+        line-height: 34px
+    }
+
+    .portfolio-cta-area .title {
+        font-size: 36px;
+        line-height: 46px;
+        margin-bottom: 15px
+    }
+
+    .logistics-single-what-we-cover-item .thumb img {
+        width: 100%
+    }
+
+    .header-inner.logistics-home .title {
+        font-size: 48px;
+        line-height: 56px
+    }
+
+    .industry-support-inner-wrap .left-content {
+        display: none
+    }
+
+    .industry-support-inner-wrap {
+        justify-content: center
+    }
+
+    .header-inner.industry-home .title {
+        font-size: 50px;
+        line-height: 60px
+    }
+
+    .header-area.industry-home {
+        padding: 160px 0 170px 0
+    }
+
+    .industry-single-testimonial-item {
+        flex-direction: column
+    }
+
+    .industry-single-testimonial-item .thumb .author-details {
+        position: initial
+    }
+
+    .industry-single-testimonial-item .content {
+        margin-bottom: 40px
+    }
+    /* appointment system */
+    .booking-wrap {
+        display: block;
+    }
+
+    .booking-wrap .left-part, .booking-wrap .right-part {
+        width: 100%;
+        padding: 0;
+    }
+    .booking-wrap .left-part {
+        padding-bottom: 60px;
+    }
+    .appointment-details-item .top-part {
+        display: block;
+    }
+    .appointment-details-item .top-part .thumb {
+        margin-bottom: 40px;
+        width: 100%;
+        margin-right: 0;
+    }
+    .appointment-details-item .top-part .content {
+        width: 100%;
+        margin-left: 0;
+        padding-left: 0;
+    }
+    .appointment-details-item .bottom-part .nav-tabs .nav-link {
+        min-width: auto;
+    }
+    
+    .custom-form-builder-form.contact-page-form {
+        min-width: 100%;
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 599px) {
+    .case-studies-slider-active .owl-item.active.center {
+        width: 550px !important
+    }
+
+    .case-category-list .single-case-item {
+        width: 100%
+    }
+
+    .case-category-list.white .single-case-item + .single-case-item {
+        border: none;
+        border-top: 1px solid rgba(255, 255, 255, .2)
+    }
+
+    .single-testimonial-item-02 {
+        display: block;
+        margin-top: 0
+    }
+
+    .single-testimonial-item-02 .quote-details {
+        width: 100%;
+        top: 0
+    }
+
+    .single-testimonial-item-02 .img-wrapper {
+        position: initial;
+        width: 100%;
+        min-height: 300px
+    }
+
+    .single-testimonial-item-02 .img-wrapper .bg-image {
+        min-height: 300px
+    }
+
+    .single-testimonial-item-02 .quote-details p {
+        font-size: 24px;
+        line-height: 40px
+    }
+
+    .experience-content-03 {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+
+    .quote-with-image-02 .img-wrapper .hover {
+        position: initial;
+        width: 100%;
+        bottom: 0
+    }
+
+    .topbar-area.style-03 .topbar-inner div:first-child {
+        display: block;
+        width: 100%
+    }
+
+    .topbar-area.style-03 .topbar-inner div:last-child {
+        float: none;
+        display: block;
+        width: 100%;
+        margin-top: 10px
+    }
+
+    .topbar-inner {
+        display: block;
+        text-align: center
+    }
+
+    .topbar-area.style-04 {
+        display: none
+    }
+
+    .header-style-04.has-top-bar .navbar-area {
+        top: 0
+    }
+
+    .header-style-01 .topbar-area .topbar-inner div:last-child {
+        display: none
+    }
+
+    .header-style-01 .topbar-area .topbar-inner div:first-child {
+        padding-bottom: 15px
+    }
+
+    .blog-classic-item-01 .content .title {
+        font-size: 28px;
+        line-height: 40px
+    }
+
+    .breadcrumb-area .page-title {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 10px
+    }
+
+    .breadcrumb-area .page-list li {
+        font-size: 16px
+    }
+
+    .blog-details-footer {
+        display: block
+    }
+
+    .blog-details-footer .right {
+        margin-top: 10px
+    }
+
+    .case-studies-details-top .case-studies-inner-text {
+        display: none
+    }
+
+    .experience-content-03.section-padding {
+        padding-left: 15px
+    }
+
+    .navbar-area.nav-fixed {
+        position: initial
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .header-bottom-item-lawyer {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+
+    .header-area .title {
+        font-size: 46px;
+        line-height: 60px
+    }
+
+    .call-to-action-inner .title, .experience-content .content .title, .experience-content-02 .title, .experience-content-03 .title, .global-content .title, .quality-content-wrapper .title, .section-title .title, .section-title-inner .title, .single-testimonial-item-03 .content .title {
+        font-size: 38px;
+        line-height: 50px
+    }
+
+    .case-studies-slider-active .slider-img .slider-inner-text .title {
+        font-size: 24px;
+        line-height: 30px
+    }
+
+    .single-blog-grid-01 .content .post-meta li + li {
+        margin-left: 5px
+    }
+
+    .case-studies-slider-active .owl-item.active.center {
+        width: 400px !important
+    }
+
+    .header-style-04.has-top-bar .header-area {
+        padding-top: 270px
+    }
+
+    .single-testimonial-item .icon {
+        font-size: 55px;
+        line-height: 65px;
+        margin-right: 40px
+    }
+
+    .call-to-action-inner .title {
+        font-size: 42px
+    }
+
+    .practice-details-content-area .content-wrap .title {
+        font-size: 30px
+    }
+
+    .attorney-contact-form-wrap {
+        padding: 60px 40px 45px 40px
+    }
+
+    .our-service-wrappper {
+        padding-left: 15px
+    }
+
+    .single-header-bottom-item-04 {
+        padding-bottom: 30px
+    }
+
+    .single-service-item .service-img.style-02 {
+        display: none
+    }
+
+    .single-service-item .service-img.style-02 {
+        display: block
+    }
+
+    .single-service-item .service-img.style-01 {
+        display: none
+    }
+
+    .service-area-work {
+        display: block
+    }
+
+    .single-service-item {
+        display: block
+    }
+
+    .single-service-item .service-img {
+        width: 100%
+    }
+
+    .single-service-item .service-text {
+        width: 100%
+    }
+
+    .single-case-studies-item .thumb img {
+        width: 100%
+    }
+
+    .single-testimonial-item-03 {
+        text-align: center
+    }
+
+    .single-testimonial-item-03 .author-img {
+        margin-top: 30px
+    }
+
+    .single-header-bottom-item-04 {
+        text-align: center;
+        margin-right: 0
+    }
+
+    .single-header-bottom-item-04 .content .title {
+        max-width: inherit
+    }
+
+    .call-to-action-inner {
+        text-align: center
+    }
+
+    .blog-details-item .blog-details-item-header {
+        display: block
+    }
+
+    .blog-details-item .blog-details-item-header .social-link {
+        margin-left: 0;
+        margin-bottom: 20px
+    }
+
+    .case-studies-slider-active .slider-img .slider-inner-text {
+        right: 20px
+    }
+
+    .video-play-btn {
+        width: 60px;
+        height: 60px;
+        line-height: 60px
+    }
+
+    .accordion-wrapper .card .card-header a {
+        padding-right: 50px
+    }
+
+    .nx-modal-inner-content-wrapper {
+        width: calc(100% - 20px);
+        height: auto;
+        margin-left: 10px
+    }
+
+    .nx-popup-wrapper.notice-modal .nx-modal-inner-content-wrapper {
+        background-position: right
+    }
+
+    .only-image-modal .nx-modal-inner-content-wrapper {
+        width: calc(100vw - 30px);
+        background-position: center;
+        background-repeat: no-repeat;
+        min-height: auto
+    }
+
+    .nx-popup-wrapper.discount-modal {
+        overflow-y: auto
+    }
+
+    .discount-modal-content-wrapper {
+        display: block
+    }
+
+    .discount-modal-content-wrapper .left-content-warp {
+        width: 100%;
+        margin-bottom: 30px
+    }
+
+    .promotional-modal-content-wrapper {
+        display: block
+    }
+
+    .promotional-modal-content-wrapper .left-content-warp {
+        margin-bottom: 30px;
+        display: block
+    }
+
+    .promotional-modal-content-wrapper .title {
+        font-size: 36px
+    }
+
+    .promotional-modal-content-wrapper .right-content-warp .title {
+        font-size: 36px;
+        line-height: 46px
+    }
+
+    .promotional-modal-content-wrapper .right-content-warp p {
+        font-size: 14px;
+        line-height: 28px
+    }
+
+    .user-dashboard-wrapper {
+        display: block
+    }
+
+    .user-dashboard-wrapper .tab-content {
+        width: 100%;
+        margin-top: 55px
+    }
+
+    .top-bar-inner ul li:last-child {
+        display: none
+    }
+
+    .top-bar-inner {
+        padding: 15px 0
+    }
+
+    .user-dashboard-wrapper > ul {
+        position: absolute;
+        left: -275px;
+        z-index: 2;
+        transition: .3s all
+    }
+
+    .user-dashboard-wrapper > ul .mobile_nav {
+        position: absolute;
+        right: -50px;
+        top: 0;
+        width: 50px;
+        background-color: var(--secondary-color);
+        height: 50px;
+        text-align: center;
+        line-height: 50px;
+        transition: all .3s;
+        display: block
+    }
+
+    .user-dashboard-wrapper {
+        position: relative
+    }
+
+    .user-dashboard-wrapper > ul.show {
+        left: -20px
+    }
+    .top-bar-inner ul li.login-register {
+        display: block !important;
+    }
+}
+
+@media only screen and (max-width: 414px) {
+    .single-product-cat-item {
+        text-align: center;
+        max-width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        flex-direction: column;
+    }
+    .case-studies-slider-active .owl-item.active.center {
+        width: 380px !important
+    }
+
+    .header-area {
+        padding: 160px 0 170px
+    }
+
+    .btn-wrapper .boxed-btn {
+        padding: 16px 25px
+    }
+
+    .experience-author.padding-bottom-100 {
+        padding-bottom: 0
+    }
+
+    .single-testimonial-item-02 .quote-details p {
+        font-weight: 600
+    }
+
+    .single-testimonial-item-02 .quote-details .author-details .author-meta .title {
+        font-size: 18px
+    }
+
+    .single-testimonial-item-02 .quote-details .author-details .author-meta {
+        margin-top: 10px
+    }
+
+    .single-testimonial-item-02 .quote-details .author-details .author-meta .designation {
+        font-size: 14px
+    }
+
+    .single-counterup-02 .count-wrap {
+        font-size: 42px;
+        line-height: 50px
+    }
+
+    .single-counterup-02 .title {
+        font-size: 20px;
+        line-height: 30px
+    }
+
+    .single-counterup-block-with-img .thumb .hover .count-num {
+        font-size: 100px;
+        line-height: 100px
+    }
+
+    .single-counterup-01 .icon {
+        font-size: 60px;
+        line-height: 70px
+    }
+
+    .single-counterup-01 .content .count-wrap {
+        font-size: 42px;
+        line-height: 52px
+    }
+
+    .call-to-action-inner.style-02 .title, .legal-support-area .title-wrap .title, .section-title .title, .section-title-inner .title, .top-lawyer-02 .center-content-area .title, .top-laywer-area-03 .content-area .title {
+        font-size: 36px;
+        line-height: 46px
+    }
+
+    .call-to-action-inner .title {
+        font-size: 38px
+    }
+
+    .call-to-action-inner .subtitle {
+        font-size: 16px
+    }
+
+    .copyright-area-inner {
+        font-size: 14px
+    }
+
+    .single-header-bottom-item-02 .icon {
+        font-size: 70px
+    }
+
+    .page-content.our-attoryney {
+        padding-bottom: 120px
+    }
+
+    .single-price-plan-01 .price-header .price-wrap .price {
+        font-size: 55px
+    }
+
+    .experience-author .thumb-2 {
+        position: initial
+    }
+
+    .header-area.style-02 {
+        padding-top: 220px
+    }
+
+    .top-bar-inner ul li:last-child {
+        display: none
+    }
+
+    .top-bar-inner {
+        padding: 15px 0
+    }
+
+    .contact-section .contact-info {
+        padding: 30px;
+        min-width: 320px
+    }
+
+    .contact-section .contact_map {
+        height: 700px !important
+    }
+
+    .singler-counterup-item-01 .content .count-wrap {
+        font-size: 35px;
+        line-height: 45px
+    }
+
+    .counterup-area {
+        padding-bottom: 80px
+    }
+
+    .single-testimonial-item-03 .content .description {
+        padding-right: 0
+    }
+
+    .single-service-item:first-child .service-text {
+        padding-bottom: 0
+    }
+
+    .single-testimonial-item .content .description {
+        font-size: 24px;
+        line-height: 35px
+    }
+
+    .single-job-list-item .jobs-meta li + li {
+        margin-left: 0
+    }
+
+    .single-job-list-item .jobs-meta li {
+        margin-right: 10px;
+        margin-bottom: 10px
+    }
+
+    .breadcrumb-area .page-title {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 10px
+    }
+
+    .event-venue-details-information .bottom-content {
+        display: block
+    }
+
+    .event-venue-details-information .bottom-content .venue-details {
+        margin-bottom: 20px
+    }
+
+    .blog-details-footer .title {
+        font-size: 16px
+    }
+
+    .contact-form.order-form {
+        margin-bottom: 30px
+    }
+
+    .payment-gateway-wrapper ul li {
+        min-width: 100px
+    }
+
+    .payment-gateway-wrapper ul {
+        flex-wrap: wrap
+    }
+
+    .promotional-modal-content-wrapper {
+        display: block
+    }
+
+    .promotional-modal-content-wrapper .left-content-warp {
+        margin-bottom: 30px;
+        display: block
+    }
+
+    .promotional-modal-content-wrapper .title {
+        font-size: 36px
+    }
+
+    .promotional-modal-content-wrapper .right-content-warp .title {
+        font-size: 36px;
+        line-height: 46px
+    }
+
+    .promotional-modal-content-wrapper .right-content-warp p {
+        font-size: 14px;
+        line-height: 28px
+    }
+
+    .portfolio-home-header-area .header-inner .subtitle {
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 10px
+    }
+
+    .portfolio-home-header-area .header-inner .title {
+        font-size: 56px;
+        line-height: 60px;
+        margin-bottom: 15px
+    }
+
+    .portfolio-home-header-area .header-inner .profession {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 25px
+    }
+
+    .portfolio-home-header-area {
+        padding: 180px 0 140px
+    }
+
+    .single-counterup-03 {
+        margin-bottom: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center
+    }
+
+    .portfolio-about-us-section .subtitle {
+        font-size: 20px;
+        line-height: 30px
+    }
+
+    .portfolio-about-us-section .title {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 20px
+    }
+
+    .about-info-list li {
+        width: 100%
+    }
+
+    .portfolio-btn i {
+        margin-left: 10px
+    }
+
+    .portfolio-btn {
+        padding: 10px 10px 10px 20px
+    }
+
+    .portfolio-about-us-section .button-wrap a + a {
+        margin-left: 10px
+    }
+
+    .single-expertice-area .number {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 10px
+    }
+
+    .single-expertice-area .title {
+        font-size: 18px;
+        line-height: 28px
+    }
+
+    .single-expertice-area .category {
+        font-size: 16px;
+        line-height: 28px
+    }
+
+    .single-we-offer-item .icon {
+        position: initial;
+        margin-bottom: 25px
+    }
+
+    .single-we-offer-item {
+        padding: 40px
+    }
+
+    .single-we-offer-item {
+        padding: 40px;
+        margin: 0;
+        margin-bottom: 30px
+    }
+
+    .single-logistic-key-feature-one {
+        width: 100%
+    }
+
+    .single-logistic-key-feature-one:after {
+        display: none
+    }
+
+    .logistic-counterup-item .icon {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 10px
+    }
+
+    .logistic-counterup-item .count-wrap {
+        color: var(--logistic-color);
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 700
+    }
+
+    .logistic-single-testimonial-item {
+        flex-direction: column-reverse
+    }
+
+    .logistic-single-testimonial-item .thumb {
+        margin-bottom: 30px
+    }
+
+    .header-area.style-04.logistics-home {
+        padding: 110px 0 190px 0
+    }
+
+    .header-inner.logistics-home .title {
+        font-size: 36px;
+        line-height: 46px
+    }
+
+    .header-style-03.header-variant-06 .logo-wrapper:after {
+        width: 130px
+    }
+
+    .construction-support-area .support-inner .boxed-btn {
+        display: none
+    }
+
+    .construction-video-wrap .experience-wrap {
+        left: 0
+    }
+
+    .cagency-header-static .header-area .title {
+        font-size: 46px;
+        line-height: 60px
+    }
+
+    .cagency-work-process-list .single-work-process-item {
+        width: 100%
+    }
+
+    .cagency-cta-area-inner .title {
+        font-size: 36px;
+        line-height: 44px
+    }
+
+    .header-style-03.header-variant-07 .responsive-mobile-menu:after {
+        right: 30%
+    }
+
+    .header-inner.industry-home .title {
+        font-size: 40px;
+        line-height: 50px
+    }
+
+    .industry-about-area .right-content-area .title {
+        font-size: 34px;
+        line-height: 45px
+    }
+
+    .industry-single-what-we-cover-item .title {
+        font-size: 20px;
+        line-height: 30px
+    }
+
+    .industry-single-case-studies-item .content .title {
+        font-size: 22px
+    }
+
+    .industry-single-case-studies-item .content .cat {
+        font-size: 14px
+    }
+
+    .industry-home.section-title .title {
+        font-size: 32px
+    }
+
+    .section-title .subtitle {
+        font-size: 14px
+    }
+
+    .industry-video-wrap .experience {
+        bottom: -100px
+    }
+    /* appointment system */
+    .appointment-content-area .top-search-wrapper .right-part {
+        display: block;
+    }
+
+    .appointment-content-area .top-search-wrapper .right-part select {
+        width: 100%;
+    }
+
+    .appointment-content-area .top-search-wrapper .right-part select:first-child {
+        margin-bottom: 20px;
+    }
+
+}
+
+@media only screen and (max-width: 384px) {
+    .blog-pagination ul li a, .blog-pagination ul li span {
+        padding: 3px 15px
+    }
+
+    .breadcrumb-area .breadcrumb-inner {
+        padding: 150px 0 90px 0
+    }
+
+    .header-area .title {
+        font-size: 40px;
+        line-height: 52px
+    }
+
+    .btn-wrapper .boxed-btn {
+        padding: 10px 30px;
+        min-width: auto
+    }
+
+    .header-area.style-04 {
+        padding: 200px 0 130px 0
+    }
+
+    .header-area .header-bottom {
+        display: block;
+        text-align: center
+    }
+
+    .header-area .header-bottom .btn-wrapper.desktop-left {
+        text-align: center
+    }
+
+    .header-area .header-bottom .video-play i {
+        margin-top: 30px;
+        margin-left: 0
+    }
+
+    .call-to-action-inner .title, .experience-content .content .title, .experience-content-02 .title, .experience-content-03 .title, .global-content .title, .quality-content-wrapper .title, .section-title .title, .section-title-inner .title, .single-testimonial-item-03 .content .title {
+        font-size: 32px;
+        line-height: 42px
+    }
+
+    .header-area .subtitle {
+        font-weight: 600
+    }
+
+    .quote-with-image-02 .img-wrapper .hover .quote-block-with-sign {
+        padding: 50px 40px 60px 40px
+    }
+
+    .quote-block-with-sign p {
+        font-size: 24px;
+        line-height: 40px
+    }
+
+    .single-header-bottom-item-02 .icon {
+        font-size: 50px;
+        line-height: 100px;
+        width: 100px;
+        height: 100px
+    }
+
+    .single-header-bottom-item-02 .icon:after {
+        width: 120px;
+        height: 120px
+    }
+
+    .single-price-plan-01 .price-header .price-wrap .price {
+        font-size: 45px
+    }
+
+    .single-testimonial-item .content .description {
+        font-size: 26px;
+        line-height: 36px
+    }
+
+    .blog-classic-item-01 .content .post-meta li + li {
+        margin-left: 5px
+    }
+
+    .experience-content-02 .sign-area p {
+        font-size: 20px;
+        line-height: 32px
+    }
+
+    .single-header-bottom-item-04.style-01 {
+        padding: 20px 25px
+    }
+
+    .single-header-bottom-item-04 {
+        align-items: center
+    }
+
+    .single-counterup-block-with-img .thumb .hover .count-num {
+        font-size: 80px;
+        line-height: 80px
+    }
+
+    .single-testimonial-item .content .description {
+        font-size: 24px;
+        line-height: 34px
+    }
+
+    .donation_wrapper .single_amount_wrapper {
+        flex-wrap: wrap
+    }
+
+    .header-area.construction-home .title {
+        line-height: 60px
+    }
+
+    .construction-about-area .right-content-area .title {
+        font-size: 36px;
+        line-height: 46px
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .header-area .btn-wrapper .boxed-btn + .boxed-btn {
+        margin-left: 10px
+    }
+
+    .header-area .btn-wrapper .boxed-btn {
+        margin-top: 20px;
+        font-size: 14px
+    }
+
+    .our-service-wrappper.bg-main.padding-top-100.padding-bottom-15 {
+        padding-bottom: 100px
+    }
+
+    .single-header-bottom-item-04 {
+        padding-bottom: 0
+    }
+
+    .single-header-bottom-item-02 .icon {
+        margin-bottom: 0
+    }
+
+    .single-testimonial-item {
+        display: block;
+        position: relative;
+        z-index: 0
+    }
+
+    .single-testimonial-item .icon {
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: .4;
+        z-index: -1
+    }
+
+    .single-blog-grid-01 .content .title {
+        font-size: 24px;
+        line-height: 36px
+    }
+
+    .blog-classic-item-01 .content .title {
+        font-size: 26px;
+        line-height: 40px
+    }
+
+    .blog-classic-item-01 .content .post-meta li {
+        font-size: 14px
+    }
+
+    .blog-classic-item-01 .content .post-meta li + li {
+        margin-left: 10px
+    }
+
+    .blog-details-item .title {
+        font-size: 26px
+    }
+
+    .case-studies-slider-active .slider-img .slider-inner-text {
+        right: 65px;
+        padding: 30px
+    }
+
+    .breadcrumb-area .page-title {
+        font-size: 36px;
+        line-height: 46px;
+        margin-bottom: 10px
+    }
+
+    .contact-section .contact-info {
+        min-width: 300px
+    }
+
+    .product-archive-top-content-area {
+        display: block
+    }
+
+    .product-archive-top-content-area div:first-child {
+        margin-bottom: 15px;
+        max-width: 100%
+    }
+
+    .product-archive-top-content-area .product-sorting select {
+        width: 100%
+    }
+
+    .construction-about-area .right-content-area .title {
+        font-size: 36px;
+        line-height: 46px
+    }
+
+    .header-style-03.header-variant-07 .responsive-mobile-menu:after {
+        right: 34%
+    }
+
+    .industry-about-area .right-content-area .title, .industry-home.section-title .title {
+        font-size: 30px;
+        line-height: 40px
+    }
+
+    .header-area.style-04 {
+        padding: 120px 0 130px 0
+    }
+
+    .header-inner.industry-home .description {
+        font-size: 16px;
+        line-height: 30px
+    }
+}
+
+@media only screen and (max-width: 335px) {
+    .header-area .title {
+        font-size: 38px;
+        line-height: 52px
+    }
+
+    .call-to-action-inner .title, .experience-content .content .title, .experience-content-02 .title, .experience-content-03 .title, .global-content .title, .quality-content-wrapper .title, .section-title .title, .section-title-inner .title, .single-testimonial-item-03 .content .title {
+        font-size: 30px;
+        line-height: 42px
+    }
+
+    .single-counterup-01 .content .count-wrap {
+        font-size: 34px;
+        line-height: 46px
+    }
+
+    .single-counterup-01 .icon, .single-icon-box-01 .icon, .single-what-we-cover-item .icon {
+        font-size: 50px;
+        line-height: 60px
+    }
+
+    .single-counterup-01 .content .title {
+        font-size: 16px
+    }
+
+    .single-what-we-cover-item .content .title, .single-why-us-box .content .title {
+        font-size: 22px
+    }
+
+    .call-to-action-inner .title {
+        font-size: 34px;
+        line-height: 44px
+    }
+
+    .call-to-action-inner .subtitle {
+        font-size: 14px
+    }
+
+    .single-header-bottom-item-02 .icon {
+        font-size: 50px;
+        line-height: 80px;
+        width: 80px;
+        height: 80px
+    }
+
+    .single-header-bottom-item-02 .icon:after {
+        width: 100px;
+        height: 100px
+    }
+
+    .single-testimonial-item-02 .quote-details p {
+        font-size: 22px;
+        line-height: 35px
+    }
+
+    .quote-with-image-02 .img-wrapper .hover .quote-block-with-sign {
+        padding: 50px 30px 60px 30px
+    }
+
+    .single-icon-box-02 .content .title {
+        font-size: 22px;
+        line-height: 30px
+    }
+
+    .navbar-area .nav-container .responsive-mobile-menu .logo-wrapper {
+        max-width: 180px
+    }
+
+    .breadcrumb-area .page-title {
+        font-size: 32px;
+        line-height: 40px;
+        margin-bottom: 10px
+    }
+
+    .breadcrumb-area .page-list li {
+        font-size: 14px
+    }
+
+    .accordion-wrapper .card .card-header a {
+        padding-right: 50px
+    }
+
+    .widget .widget-title {
+        font-size: 22px
+    }
+
+    .attorney-contact-form-wrap {
+        padding: 60px 30px 45px 30px
+    }
+
+    .portfolio-about-us-section .button-wrap a + a {
+        margin: 0
+    }
+
+    .portfolio-about-us-section .button-wrap .portfolio-btn {
+        margin-bottom: 10px
+    }
+
+    .portfolio-cta-area .title {
+        font-size: 32px;
+        line-height: 40px;
+        margin-bottom: 15px
+    }
+
+    .single-portfolio-testimonial-item .content p {
+        font-size: 18px
+    }
+
+    .single-we-offer-item .content-wrap .title {
+        font-size: 23px;
+        line-height: 32px
+    }
+
+    .portfolio-home-header-area .header-inner .title {
+        font-size: 46px;
+        line-height: 54px;
+        margin-bottom: 15px
+    }
+}
